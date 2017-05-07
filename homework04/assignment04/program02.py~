@@ -1,0 +1,72 @@
+'''
+Scrivere una funzione count_attr(htmlfile, searches) che preso in input il percorso htmlfile di un file 
+in HTML e una lista di coppie searches = [(att1, v1), (att2, v2),...], ritorna un dizionario che per ogni coppia 
+(att, v) in searches ha un elemento con chiave (att, v) e valore il numero di nodi dell'albero relativo all'HTML
+nel file che hanno l'attributo att con valore v. Se v == None conta tutti i nodi con attributo att.
+Ecco due esempi:
+
+count_attr('wpHTML_in.html', [('class', None), ('class', 'image'), ('href', None), ('title', 'HTML')]) -->
+{('href', None): 1303, ('title', 'HTML'): 72, ('class', 'image'): 3, ('class', None): 1163}
+
+count_attr('wpTimBernersLee_in.html', [('class', None), ('class', 'image'), ('href', None), ('title', 'HTML')]) -->
+{('href', None): 1095, ('title', 'HTML'): 0, ('class', 'image'): 6, ('class', None): 1016}
+
+Usare il modulo html e definire un'opportuna classe...
+'''
+
+import html
+
+
+class HtmlNode(object):
+    def __init__(self,tag,attr,content,closed=True):  #costruttore html
+        self.tag = tag 					 #associa i tag all'oggetto html
+        self.attr = attr 		 #associa gli attributi all'oggetto html
+        self.content = content 	  #associa il contenuto all'oggetto html
+        self.closed = closed #associa il metodo verifica se tag è chiuso
+     
+    def istext(self): 			 #funzione verifica se contenuto è testo
+        return self.tag == '_text_' 		  #il tag del testo è _text_
+
+    def count_by_val(self,att,v): 			  #conta nodi con val(att,v)
+        cnodes=0 						  #inizializza il contatore nodi
+        if att in self.attr: 				   #se att e negli attributi
+            for key,val in self.attr.iteritems(): 
+			   #scansiona chiavi,valori restituendo un iteratore in attr
+                if val==v: 							   #se il valore è v
+                    cnodes+=1 						  #aumenta contatore
+            return cnodes 				#ritorna il contatore\ricorsione
+        else: 												 #altrimenti
+            for i in self.content: 				 #scansiona il contenuto
+                if not i.istext(): 						 #se non è testo
+                    cnodes+=i.count_by_val(att,v) 
+							 #conta ricorsivamente il valore della tupla
+            return cnodes 				#ritorna il contatore definitivo
+        
+    def count_by_attr(self,att): 				#conta nodi con attr att
+        counter=0 							   #inizializza il contatore
+        if att in self.attr: 			 #se l'att e presente negli attr
+            for key,val in self.attr.iteritems():
+			   #scansiona chiavi,valori restituendo un iteratore in attr
+                if key==att: 						 #se la chiave è att
+                    counter+=1 						  #aumenta contatore
+            return counter 			   #ritorna contatore\ricorsione
+        for i in self.content: 						#scansiona contenuto
+            if not i.istext(): 							 #se non è testo
+                counter+=i.count_by_attr(att) 
+								  #conta ricorsivamente il numero di att
+        return counter 				#ritorna il contatore definitivo
+    
+
+def count_attr(htmlfile, searches): 				#conta tuple (att,v)
+    diz={} 										 #crea il dizionario diz
+    with open(htmlfile,'rU') as f: 	  #apre input in lettura unicode
+        doc = html.parse(f.read(),HtmlNode)    #carica in doc file input
+    for elem in searches: 			   #scansiona ogni tupla in searches
+        if elem[1] == None: 			   #se valore della tupla è None
+            nelem=doc.count_by_attr(elem[0]) 	#conta nodi con attr att 
+            diz[elem]=nelem   #associa alla chiave tupla il valore nelem
+        else: 												 #altrimenti
+            nelem=doc.count_by_val(elem[0],elem[1]) 
+											 #conta nodi con val (att,v)
+            diz[elem]=nelem 	   #associa chiave tupla il valore nelem
+    return diz 								  #ritorna il dizionario

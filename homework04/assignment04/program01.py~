@@ -1,0 +1,121 @@
+'''
+Implementare una classe NodeTree, secondo lo schema qui sotto riportato, che permette di rappresentare 
+i nodi di un albero. Il costruttore prende come parametro il nome del nodo. 
+Poi ci sono i seguenti metodi:
+- add_child(c) aggiunge c come figlio del nodo (si assume che c sia di tipo NodeTree)
+- get_children() ritorna la lista dei nodi figli (di tipo NodeTree)
+- height() ritorna l'altezza dell'albero
+- count() ritorna il numero di nodi dell'albero
+- count_by_name(name) ritorna il numero di nodi dell'albero con nome name.
+Implementare inoltre la funzione create_tree(d) che preso un dizionario d che rappresenta un albero
+crea un albero con i nodi di tipo NodeTree. Il dizionario d ha due chiavi: 'name' con valore il nome 
+del nodo e 'children' con valore la lista (eventualmente vuota) dei nodi figli (questi sono a loro 
+volta dizionari dello stesso tipo). La funzione deve aggiungere i figli nello stesso ordine in cui 
+sono elencati nelle liste delle chiavi 'children'.
+Ecco un esempio. Se il dizionario d1 e'
+d1 = {'name':'musica', 'children':[{'name':'rock', 'children':[{'name':'origini','children':[]},
+                                                               {'name':'rock&roll','children':[]},
+                                                               {'name':'hard rock', 'children':[]}]},
+                                   {'name':'jazz', 'children':[{'name':'origini', 'children':[{'name':'1900', 'children':[]}]},
+                                                               {'name':'ragtime', 'children':[]}, {'name':'swing', 'children':[]}]}]}
+L'albero rappresentato da d1 e'
+               _____________musica____________             
+              |                               |            
+    _________rock_________           ________jazz_______   
+   |          |           |         |          |        |  
+origini   rock&roll   hard rock   origini   ragtime   swing
+                                    |                      
+                                   1900    
+
+Si deve avere che
+tree = create_tree(d1)
+tree.count()  -->  10
+tree.height()  -->  4
+tree.get_children()[0].count()  -->  4
+tree.get_children()[1].height()  -->  3
+tree.count_by_name('origini') -->  2
+
+Un altro esempio
+d2 = {'name':'html', 'children':[{'name':'head', 'children':[{'name':'meta', 'children':[]}, 
+                                                             {'name':'title', 'children':[]}, 
+                                                             {'name':'style', 'children':[]}]}, 
+                                 {'name':'body', 'children':[{'name':'h1', 'children':[]}, 
+                                                             {'name':'section', 'children':[{'name':'p', 'children':[{'name':'strong', 'children':[]},
+                                                                                                                     {'name':'b', 'children':[]},
+                                                                                                                     {'name':'em', 'children':[]},
+                                                                                                                     {'name':'i', 'children':[]}]},
+                                                                                            {'name':'p', 'children':[{'name':'q', 'children':[]},
+                                                                                                                     {'name':'code', 'children':[]},
+                                                                                                                     {'name':'kbd', 'children':[]}]},
+                                                                                            {'name':'p', 'children':[{'name':'sup', 'children':[]},
+                                                                                                                     {'name':'sub', 'children':[]}]},
+                                                                                            {'name':'p', 'children':[{'name':'span', 'children':[]}]}]}, 
+                                                             {'name':'footer', 'children':[{'name':'a', 'children':[{'name':'strong', 'children':[]}]},
+                                                                                           {'name':'a', 'children':[{'name':'strong', 'children':[]}]}]}]}]}
+L'albero rappresentato da d2 e'
+          ______________________html_____________________                                            
+         |                                               |                                           
+  ______head_____       ________________________________body________________________________         
+ |       |       |     |                                   |                                |        
+meta   title   style   h1              _________________section_________________         _footer_    
+                                      |                 |              |        |       |        |   
+                               _______p_______     _____p_____       __p__      p       a        a   
+                              |      |   |    |   |    |      |     |     |     |       |        |   
+                            strong   b   em   i   q   code   kbd   sup   sub   span   strong   strong
+                            
+Si deve avere che
+tree = program01.create_tree(d2)
+tree.count()  -->  27
+tree.height()  -->  5
+tree.get_children()[1].count()  -->  22
+tree.get_children()[1].height()  -->  4
+tree.count_by_name('p')  -->  4
+'''
+
+class NodeTree(object):
+    
+    def __init__(self, name):  #costruttore (inizializza oggetto creare)
+        self.name = name        #assegna name all'oggetto in costruzione
+        self.content = []  #assegna lista content all'oggetto in costruz
+
+
+    def height(self, cnode = 1):       #cnode è il contatore altezza >=1
+		maxim=cnode      #inizializzo maxim assegnando la minima altezza
+		for elnode in self.content:                #scansiono ogni nodo
+			cnode=1 					  #resetto il contatore nodi a 1
+			if cnode<=maxim:           #se il contatore e <= max altezza
+				cnode += elnode.height()   #assegno cnode l'altezza nodo
+			if cnode>maxim:   #se invece il contatore è più grande maxim
+				maxim=cnode #assegno il contatore alla max altezza maxim
+		cnode=maxim     #assegno maxim a cnode per ritornare la funzione
+		return cnode                     #ritorna l'altezza dell'albero
+
+    def add_child(self, c):             #aggiunge c come figlio del nodo
+        self.content.append(c) 					#inserendolo nella lista
+    
+    def get_children(self): 				   #ritorna lista nodi figli
+        return self.content 					   #richiamando la lista
+
+    def count(self): 							#conta il numero di nodi
+        cnode = 0 							   #inizializza il contatore
+        if self.name != "": cnode +=1 	#aumenta cnode se esiste un nodo
+        for elnode in self.content: cnode += elnode.count()
+			 #scansiono i figli dei nodi aumentando via via il contatore
+        return cnode 			  #ritorna numero nodi presente in cnode
+
+    def count_by_name(self, name): 		   #conta numero figli nodo name
+        cnode = 0 						   #inzializzo il contatore nodi
+        if self.name == name: cnode +=1  #se name corretto aumenta cnode
+        for elnode in self.content: cnode += elnode.count_by_name(name)
+					   #scansiona i nodi e fa la ricorsione su ogni nodo
+        return cnode 					 #ritorna numero figli nodo name
+
+    
+def create_tree(d): 					   #crea albero dal dizionario d
+    elnode = NodeTree(d["name"])#assegna a albero elnode val di key name
+    if d["children"] == "": return elnode #se figli finiti torna albero
+    for i in range(len(d["children"])): 		 #scansiona i nodi figli
+        cnode = d["children"][i] 		 #assegna cnode altezza figlio i
+        elnode.add_child(create_tree(cnode)) 
+		  #aggiunge all'albero ricorsivamente il figlio con indice cnode
+    return elnode 									   #ritorna l'albero

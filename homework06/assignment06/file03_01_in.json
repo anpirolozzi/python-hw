@@ -1,0 +1,5652 @@
+[
+  {
+    "rating": 7.1, 
+    "genres": [
+      "Action", 
+      "Thriller"
+    ], 
+    "rated": "TV_MA", 
+    "language": [
+      "English"
+    ], 
+    "title": "Death Proof", 
+    "poster": "http://img3.douban.com/lpic/s2681315.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt1028528/", 
+    "directors": [
+      "Quentin Tarantino"
+    ], 
+    "also_known_as": [
+      "A prueba de muerte"
+    ], 
+    "imdb_id": "tt1028528", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Austin, Texas, USA", 
+    "writers": [
+      "Quentin Tarantino"
+    ], 
+    "actors": [
+      "Kurt Russell", 
+      "Zoe Bell", 
+      "Rosario Dawson", 
+      "Vanessa Ferlito", 
+      "Sydney Tamiia Poitier", 
+      "Tracie Thoms", 
+      "Rose McGowan", 
+      "Jordan Ladd", 
+      "Mary Elizabeth Winstead", 
+      "Quentin Tarantino", 
+      "Marcy Harriell", 
+      "Eli Roth", 
+      "Omar Doom", 
+      "Michael Bacall", 
+      "Monica Staggs"
+    ], 
+    "plot_simple": "Two separate sets of voluptuous women are stalked at different times by a scarred stuntman who uses his \"death proof\" cars to execute his murderous plans.", 
+    "year": 2007, 
+    "runtime": [
+      "114 min (international version)", 
+      "Japan: 113 min", 
+      "USA: 87 min (Grindhouse version)", 
+      "121 min (extended version)"
+    ], 
+    "type": "M", 
+    "release_date": 20070531, 
+    "rating_count": 126284
+  }, 
+  {
+    "rating": 7.6, 
+    "genres": [
+      "Comedy", 
+      "Drama", 
+      "Music"
+    ], 
+    "rated": "PG_13", 
+    "language": [
+      "English"
+    ], 
+    "title": "Billy Elliot", 
+    "poster": "http://img3.douban.com/lpic/s3833857.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0249462/", 
+    "directors": [
+      "Stephen Daldry"
+    ], 
+    "also_known_as": [
+      "Dancer"
+    ], 
+    "imdb_id": "tt0249462", 
+    "country": [
+      "UK", 
+      "France"
+    ], 
+    "filming_locations": "Canary Wharf Underground Station, Canary Wharf, Isle of Dogs, London, England, UK", 
+    "writers": [
+      "Lee Hall"
+    ], 
+    "actors": [
+      "Jamie Bell", 
+      "Jean Heywood", 
+      "Jamie Draven", 
+      "Gary Lewis", 
+      "Stuart Wells", 
+      "Mike Elliot", 
+      "Billy Fane", 
+      "Nicola Blackwell", 
+      "Julie Walters", 
+      "Carol McGuigan", 
+      "Joe Renton", 
+      "Colin MacLachlan", 
+      "Janine Birkett", 
+      "Trevor Fox", 
+      "Charlie Hardwick"
+    ], 
+    "plot_simple": "A talented young boy becomes torn between his unexpected love of dance and the disintegration of his family.", 
+    "year": 2000, 
+    "runtime": [
+      "110 min"
+    ], 
+    "type": "M", 
+    "release_date": 20000929, 
+    "rating_count": 62444
+  }, 
+  {
+    "rating": 8.3, 
+    "genres": [
+      "Biography", 
+      "Drama"
+    ], 
+    "rated": "PG", 
+    "language": [
+      "English"
+    ], 
+    "title": "The Elephant Man", 
+    "poster": "http://img3.douban.com/lpic/s1399415.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0080678/", 
+    "directors": [
+      "David Lynch"
+    ], 
+    "also_known_as": [
+      "El hombre elefante"
+    ], 
+    "imdb_id": "tt0080678", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Broadgate, London, England, UK", 
+    "writers": [
+      "Christopher De Vore", 
+      "Eric Bergren"
+    ], 
+    "actors": [
+      "Anthony Hopkins", 
+      "John Hurt", 
+      "Anne Bancroft", 
+      "John Gielgud", 
+      "Wendy Hiller", 
+      "Freddie Jones", 
+      "Michael Elphick", 
+      "Hannah Gordon", 
+      "Helen Ryan", 
+      "John Standing", 
+      "Dexter Fletcher", 
+      "Lesley Dunlop", 
+      "Phoebe Nicholls", 
+      "Pat Gorman", 
+      "Claire Davenport"
+    ], 
+    "plot_simple": "A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous facade, there is revealed a person of intelligence and sensitivity.", 
+    "year": 1980, 
+    "runtime": [
+      "124 min"
+    ], 
+    "type": "M", 
+    "release_date": 19801010, 
+    "rating_count": 93963
+  }, 
+  {
+    "rating": 7.2, 
+    "genres": [
+      "Comedy", 
+      "Horror"
+    ], 
+    "rated": "PG", 
+    "language": [
+      "English", 
+      "Spanish"
+    ], 
+    "title": "Gremlins", 
+    "poster": "http://ia.media-imdb.com/images/M/MV5BMTczMjM3OTIwN15BMl5BanBnXkFtZTYwMTIyMzA5._V1._SY317_CR8,0,214,317_.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0087363/", 
+    "directors": [
+      "Joe Dante"
+    ], 
+    "also_known_as": [
+      "Gremlin"
+    ], 
+    "imdb_id": "tt0087363", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Colonial Street, Backlot, Universal Studios - 100 Universal City Plaza, Universal City, California, USA", 
+    "writers": [
+      "Chris Columbus"
+    ], 
+    "actors": [
+      "Hoyt Axton", 
+      "John Louie", 
+      "Keye Luke", 
+      "Don Steele", 
+      "Susan Burgess", 
+      "Scott Brady", 
+      "Arnie Moore", 
+      "Corey Feldman", 
+      "Harry Carey Jr.", 
+      "Zach Galligan", 
+      "Dick Miller", 
+      "Phoebe Cates", 
+      "Polly Holliday", 
+      "Donald Elson", 
+      "Belinda Balaski"
+    ], 
+    "plot_simple": "A boy inadvertantly breaks 3 important rules concerning his new pet and unleashes a horde of malevolently mischievous monsters on a small town.", 
+    "year": 1984, 
+    "runtime": [
+      "106 min"
+    ], 
+    "type": "M", 
+    "release_date": 19840608, 
+    "rating_count": 75312
+  }, 
+  {
+    "rating": 7.4, 
+    "genres": [
+      "Action", 
+      "Horror", 
+      "Sci-Fi", 
+      "Thriller"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "Dawn of the Dead", 
+    "poster": "http://img5.douban.com/lpic/s1648609.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0363547/", 
+    "directors": [
+      "Zack Snyder"
+    ], 
+    "also_known_as": [
+      "L'arm\u00e9e des morts"
+    ], 
+    "imdb_id": "tt0363547", 
+    "country": [
+      "USA", 
+      "Canada", 
+      "Japan", 
+      "France"
+    ], 
+    "filming_locations": "Ashbridge's Bay, Toronto, Ontario, Canada", 
+    "writers": [
+      "George A. Romero", 
+      "James Gunn"
+    ], 
+    "actors": [
+      "Sarah Polley", 
+      "Ving Rhames", 
+      "Jake Weber", 
+      "Mekhi Phifer", 
+      "Ty Burrell", 
+      "Michael Kelly", 
+      "Kevin Zegers", 
+      "Michael Barry", 
+      "Lindy Booth", 
+      "Jayne Eastwood", 
+      "Boyd Banks", 
+      "Inna Korobkina", 
+      "R.D. Reid", 
+      "Kim Poirier", 
+      "Matt Frewer"
+    ], 
+    "plot_simple": "A nurse, a policeman, a young married couple, a salesman, and other survivors of a worldwide plague that is producing aggressive, flesh-eating zombies, take refuge in a mega Midwestern shopping mall.", 
+    "year": 2004, 
+    "runtime": [
+      "101 min", 
+      "110 min (unrated director's cut)"
+    ], 
+    "type": "M", 
+    "release_date": 20040319, 
+    "rating_count": 122079
+  }, 
+  {
+    "rating": 7.1, 
+    "genres": [
+      "Comedy", 
+      "Drama"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English", 
+      "Yiddish", 
+      "Hebrew"
+    ], 
+    "title": "A Serious Man", 
+    "poster": "http://img3.douban.com/lpic/s3922380.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt1019452/", 
+    "directors": [
+      "Ethan Coen", 
+      "Joel Coen"
+    ], 
+    "also_known_as": [
+      "Un hombre serio"
+    ], 
+    "imdb_id": "tt1019452", 
+    "country": [
+      "USA", 
+      "UK", 
+      "France"
+    ], 
+    "filming_locations": "Uptown Vision Clinic, Minneapolis, Minnesota, USA", 
+    "writers": [
+      "Joel Coen", 
+      "Ethan Coen"
+    ], 
+    "actors": [
+      "Michael Stuhlbarg", 
+      "Richard Kind", 
+      "Fred Melamed", 
+      "Sari Lennick", 
+      "Aaron Wolff", 
+      "Jessica McManus", 
+      "Peter Breitmayer", 
+      "Brent Braunschweig", 
+      "David Kang", 
+      "Benjamin Portnoe", 
+      "Jack Swiler", 
+      "Andrew S. Lentz", 
+      "Jon Kaminski Jr.", 
+      "Ari Hoptman", 
+      "Alan Mandell"
+    ], 
+    "plot_simple": "A black comedy drama centered on Larry Gopnik, a Midwestern professor who watches his life unravel through multiple sudden incidents. Though seeking for meaning and answers he seems to stay stalled.", 
+    "year": 2009, 
+    "runtime": [
+      "106 min"
+    ], 
+    "type": "M", 
+    "release_date": 20091009, 
+    "rating_count": 62253
+  }, 
+  {
+    "rating": 7.2, 
+    "genres": [
+      "Drama", 
+      "Sci-Fi"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "Melancholia", 
+    "poster": "http://img3.douban.com/lpic/s6886464.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt1527186/", 
+    "directors": [
+      "Lars von Trier"
+    ], 
+    "also_known_as": [
+      "Melancol\u00eda"
+    ], 
+    "imdb_id": "tt1527186", 
+    "country": [
+      "Denmark", 
+      "Sweden", 
+      "France", 
+      "Germany"
+    ], 
+    "filming_locations": "Tjol\u00f6holm Castle, Fj\u00e4r\u00e5s, Sweden", 
+    "writers": [
+      "Lars von Trier"
+    ], 
+    "actors": [
+      "Kirsten Dunst", 
+      "Charlotte Gainsbourg", 
+      "Alexander Skarsg\u00e5rd", 
+      "Brady Corbet", 
+      "Cameron Spurr", 
+      "Charlotte Rampling", 
+      "Jesper Christensen", 
+      "John Hurt", 
+      "Stellan Skarsg\u00e5rd", 
+      "Udo Kier", 
+      "Kiefer Sutherland", 
+      "James Cagnard", 
+      "Deborah Fronko", 
+      "Charlotta Miller", 
+      "Claire Miller"
+    ], 
+    "plot_simple": "Two sisters find their already strained relationship challenged as a mysterious new planet threatens to collide with the Earth.", 
+    "year": 2011, 
+    "runtime": [
+      "136 min"
+    ], 
+    "type": "M", 
+    "release_date": 20110526, 
+    "rating_count": 65757
+  }, 
+  {
+    "rating": 8.3, 
+    "genres": [
+      "Animation", 
+      "Adventure", 
+      "Comedy", 
+      "Drama", 
+      "Family", 
+      "Fantasy"
+    ], 
+    "rated": "PG", 
+    "language": [
+      "English"
+    ], 
+    "title": "Up", 
+    "poster": "http://img5.douban.com/lpic/s3563529.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt1049413/", 
+    "also_known_as": [
+      "Up - Una aventura de altura"
+    ], 
+    "imdb_id": "tt1049413", 
+    "country": [
+      "USA"
+    ], 
+    "directors": [
+      "Pete Docter", 
+      "Bob Peterson"
+    ], 
+    "writers": [
+      "Pete Docter", 
+      "Bob Peterson"
+    ], 
+    "actors": [
+      "Edward Asner", 
+      "Christopher Plummer", 
+      "Jordan Nagai", 
+      "Bob Peterson", 
+      "Delroy Lindo", 
+      "Jerome Ranft", 
+      "John Ratzenberger", 
+      "David Kaye", 
+      "Elie Docter", 
+      "Jeremy Leary", 
+      "Mickie McGowan", 
+      "Danny Mann", 
+      "Donald Fullilove", 
+      "Jess Harnell", 
+      "Josh Cooley"
+    ], 
+    "plot_simple": "By tying thousands of balloons to his home, 78-year-old Carl sets out to fulfill his lifelong dream to see the wilds of South America. Russell, a wilderness explorer 70 years younger, inadvertently becomes a stowaway.", 
+    "year": 2009, 
+    "runtime": [
+      "96 min"
+    ], 
+    "type": "M", 
+    "release_date": 20090529, 
+    "rating_count": 289268
+  }, 
+  {
+    "rating": 8.2, 
+    "genres": [
+      "Drama", 
+      "Romance", 
+      "War"
+    ], 
+    "rated": "TV_PG", 
+    "language": [
+      "English"
+    ], 
+    "title": "Gone with the Wind", 
+    "poster": "http://ia.media-imdb.com/images/M/MV5BODQ1NDk2Nzc4OF5BMl5BanBnXkFtZTcwMTI0Njk3OA@@._V1._SY317_CR12,0,214,317_.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0031381/", 
+    "directors": [
+      "Victor Fleming", 
+      "and 2 more credits"
+    ], 
+    "also_known_as": [
+      "Lo que el viento se llev\u00f3"
+    ], 
+    "imdb_id": "tt0031381", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Agoura Hills, California, USA", 
+    "writers": [
+      "Margaret Mitchell", 
+      "Sidney Howard"
+    ], 
+    "actors": [
+      "Thomas Mitchell", 
+      "Barbara O'Neil", 
+      "Vivien Leigh", 
+      "Evelyn Keyes", 
+      "Ann Rutherford", 
+      "George Reeves", 
+      "Fred Crane", 
+      "Hattie McDaniel", 
+      "Oscar Polk", 
+      "Butterfly McQueen", 
+      "Victor Jory", 
+      "Everett Brown", 
+      "Howard C. Hickman", 
+      "Alicia Rhett", 
+      "Leslie Howard"
+    ], 
+    "plot_simple": "American classic in which a manipulative woman and a roguish man carry on a turbulent love affair in the American south during the Civil War and Reconstruction.", 
+    "year": 1939, 
+    "runtime": [
+      "238 min", 
+      "USA: 238 min (restored DVD version)", 
+      "Sweden: 223 min (1969 re-release)", 
+      "Sweden: 234 min (1985 re-release)", 
+      "UK: 224 min (1994 re-release)", 
+      "UK: 233 min (1989 re-release)", 
+      "226 min (copyright length)", 
+      "238 min (theatrical version)"
+    ], 
+    "type": "M", 
+    "release_date": 19400117, 
+    "rating_count": 125875
+  }, 
+  {
+    "rating": 7.2, 
+    "genres": [
+      "Drama", 
+      "Mystery", 
+      "Sci-Fi", 
+      "Thriller"
+    ], 
+    "rated": "PG_13", 
+    "language": [
+      "English"
+    ], 
+    "title": "Unbreakable", 
+    "poster": "http://img3.douban.com/lpic/s1399671.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0217869/", 
+    "directors": [
+      "M. Night Shyamalan"
+    ], 
+    "also_known_as": [
+      "El protegido"
+    ], 
+    "imdb_id": "tt0217869", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Franklin Field - 235 S. 33rd Street, University of Pennsylvania, Philadelphia, Pennsylvania, USA", 
+    "writers": [
+      "M. Night Shyamalan"
+    ], 
+    "actors": [
+      "Bruce Willis", 
+      "Samuel L. Jackson", 
+      "Robin Wright", 
+      "Spencer Treat Clark", 
+      "Charlayne Woodard", 
+      "Eamonn Walker", 
+      "Leslie Stefanson", 
+      "Johnny Hiram Jamison", 
+      "Michaelia Carroll", 
+      "Bostin Christopher", 
+      "Elizabeth Lawrence", 
+      "Davis Duffield", 
+      "Laura Regan", 
+      "Chance Kelly", 
+      "Michael Kelly"
+    ], 
+    "plot_simple": "A suspense thriller with supernatural overtones that revolves around a man who learns something extraordinary about himself after a devastating accident.", 
+    "year": 2000, 
+    "runtime": [
+      "106 min"
+    ], 
+    "type": "M", 
+    "release_date": 20001122, 
+    "rating_count": 155678
+  }, 
+  {
+    "rating": 7.6, 
+    "genres": [
+      "Action", 
+      "Fantasy", 
+      "Thriller"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "The Crow", 
+    "poster": "http://img3.douban.com/lpic/s1654812.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0109506/", 
+    "directors": [
+      "Alex Proyas"
+    ], 
+    "also_known_as": [
+      "O Corvo"
+    ], 
+    "imdb_id": "tt0109506", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Los Angeles, California, USA", 
+    "writers": [
+      "James O'Barr", 
+      "David J. Schow", 
+      "and 1 more credit"
+    ], 
+    "actors": [
+      "Brandon Lee", 
+      "Rochelle Davis", 
+      "Ernie Hudson", 
+      "Michael Wincott", 
+      "Bai Ling", 
+      "Sofia Shinas", 
+      "Anna Levine", 
+      "David Patrick Kelly", 
+      "Angel David", 
+      "Laurence Mason", 
+      "Michael Massee", 
+      "Tony Todd", 
+      "Jon Polito", 
+      "Bill Raymond", 
+      "Marco Rodr\u00edguez"
+    ], 
+    "plot_simple": "A man brutally murdered comes back to life as an undead avenger of his and his fianc\u00e9e's murder.", 
+    "year": 1994, 
+    "runtime": [
+      "102 min", 
+      "Germany: 98 min (cut version)", 
+      "Australia: 97 min"
+    ], 
+    "type": "M", 
+    "release_date": 19940511, 
+    "rating_count": 88381
+  }, 
+  {
+    "rating": 8.4, 
+    "genres": [
+      "Crime", 
+      "Drama", 
+      "Mystery"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "L.A. Confidential", 
+    "poster": "http://ia.media-imdb.com/images/M/MV5BMTQ5MTU4MzQ5NF5BMl5BanBnXkFtZTcwMjY1OTM2MQ@@._V1._SY317_CR0,0,214,317_.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0119488/", 
+    "directors": [
+      "Curtis Hanson"
+    ], 
+    "also_known_as": [
+      "Los \u00c1ngeles al desnudo"
+    ], 
+    "imdb_id": "tt0119488", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "1277 S. Cochran Ave, Los Angeles, California, USA", 
+    "writers": [
+      "James Ellroy", 
+      "Brian Helgeland", 
+      "and 1 more credit"
+    ], 
+    "actors": [
+      "Kevin Spacey", 
+      "Russell Crowe", 
+      "Guy Pearce", 
+      "James Cromwell", 
+      "Kim Basinger", 
+      "Danny DeVito", 
+      "David Strathairn", 
+      "Ron Rifkin", 
+      "Matt McCoy", 
+      "Paul Guilfoyle", 
+      "Paolo Seganti", 
+      "Elisabeth Granli", 
+      "Sandra Taylor", 
+      "Steve Rankin", 
+      "Graham Beckel"
+    ], 
+    "plot_simple": "As corruption grows in 1950s LA, three policemen - the straight-laced, the brutal, and the sleazy - investigate a series of murders with their own brand of justice.", 
+    "year": 1997, 
+    "runtime": [
+      "138 min"
+    ], 
+    "type": "M", 
+    "release_date": 19970919, 
+    "rating_count": 250651
+  }, 
+  {
+    "rating": 7.7, 
+    "genres": [
+      "Action", 
+      "Comedy", 
+      "Crime", 
+      "Mystery", 
+      "Thriller"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "Kiss Kiss Bang Bang", 
+    "poster": "http://ia.media-imdb.com/images/M/MV5BMTY5NDExMDA3M15BMl5BanBnXkFtZTYwNTc2MzA3._V1._SY317_.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0373469/", 
+    "directors": [
+      "Shane Black"
+    ], 
+    "also_known_as": [
+      "Entre besos y tiros"
+    ], 
+    "imdb_id": "tt0373469", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Long Beach, California, USA", 
+    "writers": [
+      "Brett Halliday", 
+      "Shane Black", 
+      "and 1 more credit"
+    ], 
+    "actors": [
+      "Robert Downey Jr.", 
+      "Val Kilmer", 
+      "Michelle Monaghan", 
+      "Corbin Bernsen", 
+      "Dash Mihok", 
+      "Larry Miller", 
+      "Rockmond Dunbar", 
+      "Shannyn Sossamon", 
+      "Angela Lindvall", 
+      "Indio Falconer Downey", 
+      "Ariel Winter", 
+      "Duane Carnahan", 
+      "Josh Richman", 
+      "Martha Hackett", 
+      "Nancy Fish"
+    ], 
+    "plot_simple": "A murder mystery brings together a private eye, a struggling actress, and a thief masquerading as an actor.", 
+    "year": 2005, 
+    "runtime": [
+      "103 min"
+    ], 
+    "type": "M", 
+    "release_date": 20050914, 
+    "rating_count": 111432
+  }, 
+  {
+    "rating": 7.7, 
+    "genres": [
+      "Action", 
+      "Drama", 
+      "History", 
+      "Romance", 
+      "Western"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English", 
+      "Latin"
+    ], 
+    "title": "Tombstone", 
+    "poster": "http://img3.douban.com/lpic/s2757257.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0108358/", 
+    "directors": [
+      "George P. Cosmatos", 
+      "and 1 more credit"
+    ], 
+    "also_known_as": [
+      "Duel au soleil"
+    ], 
+    "imdb_id": "tt0108358", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Arizona, USA", 
+    "writers": [
+      "Kevin Jarre"
+    ], 
+    "actors": [
+      "Kurt Russell", 
+      "Val Kilmer", 
+      "Sam Elliott", 
+      "Bill Paxton", 
+      "Powers Boothe", 
+      "Michael Biehn", 
+      "Charlton Heston", 
+      "Jason Priestley", 
+      "Jon Tenney", 
+      "Stephen Lang", 
+      "Thomas Haden Church", 
+      "Dana Delany", 
+      "Paula Malcomson", 
+      "Lisa Collins", 
+      "Dana Wheeler-Nicholson"
+    ], 
+    "plot_simple": "A successful lawman's plans to retire anonymously in Tombstone, Arizona, are disrupted by the kind of outlaws he was famous for eliminating.", 
+    "year": 1993, 
+    "runtime": [
+      "130 min", 
+      "USA: 134 min (director's cut)"
+    ], 
+    "type": "M", 
+    "release_date": 19931225, 
+    "rating_count": 61564
+  }, 
+  {
+    "rating": 7.8, 
+    "genres": [
+      "Action", 
+      "Crime", 
+      "Sci-Fi", 
+      "Thriller"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "Looper", 
+    "poster": "http://img3.douban.com/lpic/s9017457.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt1276104/", 
+    "directors": [
+      "Rian Johnson"
+    ], 
+    "also_known_as": [
+      "Looper: Asesinos del futuro"
+    ], 
+    "imdb_id": "tt1276104", 
+    "country": [
+      "USA", 
+      "China"
+    ], 
+    "filming_locations": "Thibodaux, Louisiana, USA", 
+    "writers": [
+      "Rian Johnson"
+    ], 
+    "actors": [
+      "Joseph Gordon-Levitt", 
+      "Bruce Willis", 
+      "Emily Blunt", 
+      "Paul Dano", 
+      "Noah Segan", 
+      "Piper Perabo", 
+      "Jeff Daniels", 
+      "Pierce Gagnon", 
+      "Qing Xu", 
+      "Tracie Thoms", 
+      "Frank Brennan", 
+      "Garret Dillahunt", 
+      "Nick Gomez", 
+      "Marcus Hester", 
+      "Jon Eyez"
+    ], 
+    "plot_simple": "In 2074, when the mob wants to get rid of someone, the target is sent 30 years into the past, where a hired gun awaits. Someone like Joe, who one day learns the mob wants to 'close the loop' by transporting back Joe's future self.", 
+    "year": 2012, 
+    "runtime": [
+      "119 min"
+    ], 
+    "type": "M", 
+    "release_date": 20120928, 
+    "rating_count": 111890
+  }, 
+  {
+    "rating": 7.1, 
+    "genres": [
+      "Comedy", 
+      "Romance"
+    ], 
+    "rated": "NOT_RATED", 
+    "language": [
+      "English"
+    ], 
+    "title": "Mallrats", 
+    "poster": "http://img3.douban.com/lpic/s1947253.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0113749/", 
+    "directors": [
+      "Kevin Smith"
+    ], 
+    "also_known_as": [
+      "Aylak fareler"
+    ], 
+    "imdb_id": "tt0113749", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Eden Prairie Center Mall - 8251 Flying Cloud Drive, Eden Prairie, Minnesota, USA", 
+    "writers": [
+      "Kevin Smith"
+    ], 
+    "actors": [
+      "Shannen Doherty", 
+      "Jeremy London", 
+      "Jason Lee", 
+      "Claire Forlani", 
+      "Ben Affleck", 
+      "Joey Lauren Adams", 
+      "Ren\u00e9e Humphrey", 
+      "Jason Mewes", 
+      "Ethan Suplee", 
+      "Stan Lee", 
+      "Priscilla Barnes", 
+      "Michael Rooker", 
+      "Carol Banker", 
+      "Steven Blackwell", 
+      "Kyle Boe"
+    ], 
+    "plot_simple": "Both dumped by their girlfriends, two best friends seek refuge in the local mall.", 
+    "year": 1995, 
+    "runtime": [
+      "94 min", 
+      "123 min (extended version)"
+    ], 
+    "type": "M", 
+    "release_date": 19951020, 
+    "rating_count": 70659
+  }, 
+  {
+    "rating": 7.9, 
+    "genres": [
+      "Action", 
+      "Comedy"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "Hot Fuzz", 
+    "poster": "http://ia.media-imdb.com/images/M/MV5BMTIxODg2NDU1MF5BMl5BanBnXkFtZTcwOTc3MDM0MQ@@._V1._SY317_.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0425112/", 
+    "directors": [
+      "Edgar Wright"
+    ], 
+    "also_known_as": [
+      "Arma fatal"
+    ], 
+    "imdb_id": "tt0425112", 
+    "country": [
+      "UK", 
+      "France", 
+      "USA"
+    ], 
+    "filming_locations": "Barn Theatre, Welwyn Garden City, Hertfordshire, England, UK", 
+    "writers": [
+      "Edgar Wright", 
+      "Simon Pegg"
+    ], 
+    "actors": [
+      "Simon Pegg", 
+      "Martin Freeman", 
+      "Bill Nighy", 
+      "Robert Popper", 
+      "Joe Cornish", 
+      "Chris Waitt", 
+      "Eric Mason", 
+      "Billie Whitelaw", 
+      "Nick Frost", 
+      "Peter Wight", 
+      "Julia Deakin", 
+      "Tom Strode Walton", 
+      "Troy Woollan", 
+      "Rory Lowings", 
+      "Bill Bailey"
+    ], 
+    "plot_simple": "Jealous colleagues conspire to get a top London cop transferred to a small town and paired with a witless new partner. On the beat, the pair stumble upon a series of suspicious accidents and events.", 
+    "year": 2007, 
+    "runtime": [
+      "121 min"
+    ], 
+    "type": "M", 
+    "release_date": 20070214, 
+    "rating_count": 200913
+  }, 
+  {
+    "rating": 7.7, 
+    "genres": [
+      "Crime", 
+      "Drama", 
+      "History"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English", 
+      "Arabic", 
+      "German"
+    ], 
+    "title": "United 93", 
+    "poster": "http://img3.douban.com/lpic/s1795072.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0475276/", 
+    "directors": [
+      "Paul Greengrass"
+    ], 
+    "also_known_as": [
+      "Vuelo 93"
+    ], 
+    "imdb_id": "tt0475276", 
+    "country": [
+      "France", 
+      "UK", 
+      "USA"
+    ], 
+    "filming_locations": "Boston, Massachusetts, USA", 
+    "writers": [
+      "Paul Greengrass"
+    ], 
+    "actors": [
+      "J.J. Johnson", 
+      "Gary Commock", 
+      "Polly Adams", 
+      "Opal Alladin", 
+      "Starla Benford", 
+      "Trish Gates", 
+      "Nancy McDoniel", 
+      "David Alan Basche", 
+      "Richard Bekins", 
+      "Susan Blommaert", 
+      "Ray Charleson", 
+      "Christian Clemenson", 
+      "Liza Col\u00f3n-Zayas", 
+      "Lorna Dallas", 
+      "Denny Dillon"
+    ], 
+    "plot_simple": "A real time account of the events on United Flight 93, one of the planes hijacked on 9/11 that crashed near Shanksville, Pennsylvania when passengers foiled the terrorist plot.", 
+    "year": 2006, 
+    "runtime": [
+      "111 min"
+    ], 
+    "type": "M", 
+    "release_date": 20060428, 
+    "rating_count": 61253
+  }, 
+  {
+    "rating": 8.2, 
+    "genres": [
+      "Animation", 
+      "Adventure", 
+      "Family", 
+      "Fantasy"
+    ], 
+    "rated": "G", 
+    "language": [
+      "Japanese"
+    ], 
+    "title": "Tonari no Totoro", 
+    "poster": "http://ia.media-imdb.com/images/M/MV5BMTg0MjgyMDM2N15BMl5BanBnXkFtZTcwODU1ODEzMQ@@._V1._SY317_CR6,0,214,317_.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0096283/", 
+    "also_known_as": [
+      "My Neighbor Totoro"
+    ], 
+    "imdb_id": "tt0096283", 
+    "country": [
+      "Japan"
+    ], 
+    "directors": [
+      "Hayao Miyazaki"
+    ], 
+    "writers": [
+      "Hayao Miyazaki"
+    ], 
+    "actors": [
+      "Toshiyuki Amagasa", 
+      "Paul Butcher", 
+      "Pat Carroll", 
+      "Cheryl Chase", 
+      "Shigeru Chiba", 
+      "Lara Cody", 
+      "Natalie Core", 
+      "Tim Daly", 
+      "Dakota Fanning", 
+      "Elle Fanning", 
+      "Kenneth Hartman", 
+      "Noriko Hidaka", 
+      "Akiko Hiramatsu", 
+      "Masashi Hirose", 
+      "Shigesato Itoi"
+    ], 
+    "plot_simple": "When two girls move to the country to be near their ailing mother, they have adventures with the wonderous forest spirits who live nearby.", 
+    "year": 1988, 
+    "runtime": [
+      "86 min"
+    ], 
+    "type": "M", 
+    "release_date": 19880416, 
+    "rating_count": 67218
+  }, 
+  {
+    "rating": 8.6, 
+    "genres": [
+      "Crime", 
+      "Drama"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "American History X", 
+    "poster": "http://img3.douban.com/lpic/s2787607.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0120586/", 
+    "directors": [
+      "Tony Kaye"
+    ], 
+    "also_known_as": [
+      "\u039c\u03b1\u03b8\u03ae\u03bc\u03b1\u03c4\u03b1 \u0391\u03bc\u03b5\u03c1\u03b9\u03ba\u03b1\u03bd\u03b9\u03ba\u03ae\u03c2 \u0399\u03c3\u03c4\u03bf\u03c1\u03af\u03b1\u03c2"
+    ], 
+    "imdb_id": "tt0120586", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Johnie's Coffee Shop - 6101 Wilshire Boulevard, Fairfax, Los Angeles, California, USA", 
+    "writers": [
+      "David McKenna"
+    ], 
+    "actors": [
+      "Edward Norton", 
+      "Edward Furlong", 
+      "Beverly D'Angelo", 
+      "Jennifer Lien", 
+      "Ethan Suplee", 
+      "Fairuza Balk", 
+      "Avery Brooks", 
+      "Elliott Gould", 
+      "Stacy Keach", 
+      "William Russ", 
+      "Guy Torry", 
+      "Joe Cortese", 
+      "Jason Bose Smith", 
+      "Antonio David Lyons", 
+      "Alex Sol"
+    ], 
+    "plot_simple": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.", 
+    "year": 1998, 
+    "runtime": [
+      "119 min"
+    ], 
+    "type": "M", 
+    "release_date": 19990212, 
+    "rating_count": 404289
+  }, 
+  {
+    "rating": 7.9, 
+    "genres": [
+      "Adventure", 
+      "Comedy", 
+      "Drama"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "Little Miss Sunshine", 
+    "poster": "http://img3.douban.com/lpic/s1829420.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0449059/", 
+    "directors": [
+      "Jonathan Dayton", 
+      "Valerie Faris"
+    ], 
+    "also_known_as": [
+      "Peque\u00f1a Miss Sunshine"
+    ], 
+    "imdb_id": "tt0449059", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Acton, California, USA", 
+    "writers": [
+      "Michael Arndt"
+    ], 
+    "actors": [
+      "Abigail Breslin", 
+      "Greg Kinnear", 
+      "Paul Dano", 
+      "Alan Arkin", 
+      "Toni Collette", 
+      "Steve Carell", 
+      "Marc Turtletaub", 
+      "Jill Talley", 
+      "Brenda Canela", 
+      "Julio Oscar Mechoso", 
+      "Chuck Loring", 
+      "Justin Shilton", 
+      "Gordon Thomson", 
+      "Steven Christopher Parker", 
+      "Bryan Cranston"
+    ], 
+    "plot_simple": "A family determined to get their young daughter into the finals of a beauty pageant take a cross-country trip in their VW bus.", 
+    "year": 2006, 
+    "runtime": [
+      "101 min"
+    ], 
+    "type": "M", 
+    "release_date": 20060818, 
+    "rating_count": 223189
+  }, 
+  {
+    "rating": 7.3, 
+    "genres": [
+      "Crime", 
+      "Drama", 
+      "Thriller"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "The Lincoln Lawyer", 
+    "poster": "http://img3.douban.com/lpic/s4569085.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt1189340/", 
+    "directors": [
+      "Brad Furman"
+    ], 
+    "also_known_as": [
+      "Culpable o inocente"
+    ], 
+    "imdb_id": "tt1189340", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Downtown, Los Angeles, California, USA", 
+    "writers": [
+      "John Romano", 
+      "Michael Connelly"
+    ], 
+    "actors": [
+      "Matthew McConaughey", 
+      "Marisa Tomei", 
+      "Ryan Phillippe", 
+      "William H. Macy", 
+      "Josh Lucas", 
+      "John Leguizamo", 
+      "Michael Pe\u00f1a", 
+      "Bob Gunton", 
+      "Frances Fisher", 
+      "Bryan Cranston", 
+      "Trace Adkins", 
+      "Laurence Mason", 
+      "Margarita Levieva", 
+      "Pell James", 
+      "Shea Whigham"
+    ], 
+    "plot_simple": "A sleazy defense attorney has a crisis of conscience when he represents a wealthy client who has a foolproof plan to beat the system.", 
+    "year": 2011, 
+    "runtime": [
+      "118 min"
+    ], 
+    "type": "M", 
+    "release_date": 20110318, 
+    "rating_count": 85487
+  }, 
+  {
+    "rating": 7.3, 
+    "genres": [
+      "Biography", 
+      "Crime", 
+      "Drama"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "Monster", 
+    "poster": "http://img3.douban.com/lpic/s1317910.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0340855/", 
+    "directors": [
+      "Patty Jenkins"
+    ], 
+    "also_known_as": [
+      "\u010cudovi\u0161te"
+    ], 
+    "imdb_id": "tt0340855", 
+    "country": [
+      "USA", 
+      "Germany"
+    ], 
+    "filming_locations": "Casselberry, Florida, USA", 
+    "writers": [
+      "Patty Jenkins"
+    ], 
+    "actors": [
+      "Charlize Theron", 
+      "Christina Ricci", 
+      "Bruce Dern", 
+      "Lee Tergesen", 
+      "Annie Corley", 
+      "Pruitt Taylor Vince", 
+      "Marco St. John", 
+      "Marc Macaulay", 
+      "Scott Wilson", 
+      "Rus Blackwell", 
+      "Tim Ware", 
+      "Stephan Jones", 
+      "Brett Rice", 
+      "Kaitlin Riley", 
+      "Cree Ivey"
+    ], 
+    "plot_simple": "Based on the life of Aileen Wuornos, a Daytona Beach prostitute who became a serial killer.", 
+    "year": 2003, 
+    "runtime": [
+      "109 min"
+    ], 
+    "type": "M", 
+    "release_date": 20040130, 
+    "rating_count": 65216
+  }, 
+  {
+    "rating": 7.2, 
+    "genres": [
+      "Adventure", 
+      "Drama", 
+      "Family", 
+      "Fantasy"
+    ], 
+    "rated": "PG", 
+    "language": [
+      "English"
+    ], 
+    "title": "Bridge to Terabithia", 
+    "poster": "http://img3.douban.com/lpic/s1793018.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0398808/", 
+    "directors": [
+      "Gabor Csupo"
+    ], 
+    "also_known_as": [
+      "El mundo m\u00e1gico de Terabithia"
+    ], 
+    "imdb_id": "tt0398808", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "New Zealand", 
+    "writers": [
+      "Jeff Stockwell", 
+      "David Paterson", 
+      "and 1 more credit"
+    ], 
+    "actors": [
+      "Josh Hutcherson", 
+      "AnnaSophia Robb", 
+      "Zooey Deschanel", 
+      "Robert Patrick", 
+      "Bailee Madison", 
+      "Kate Butler", 
+      "Devon Wood", 
+      "Emma Fenton", 
+      "Grace Brannigan", 
+      "Latham Gaines", 
+      "Judy McIntosh", 
+      "Patricia Aldersley", 
+      "Lauren Clinton", 
+      "Isabelle Rose Kircher", 
+      "Cameron Wakefield"
+    ], 
+    "plot_simple": "A preteen's life is changed after befriending the new girl at school.", 
+    "year": 2007, 
+    "runtime": [
+      "96 min"
+    ], 
+    "type": "M", 
+    "release_date": 20070216, 
+    "rating_count": 61110
+  }, 
+  {
+    "rating": 7.5, 
+    "genres": [
+      "Drama", 
+      "Family", 
+      "Fantasy", 
+      "Sport"
+    ], 
+    "rated": "PG", 
+    "language": [
+      "English"
+    ], 
+    "title": "Field of Dreams", 
+    "poster": "http://img3.douban.com/lpic/s4421905.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0097351/", 
+    "directors": [
+      "Phil Alden Robinson"
+    ], 
+    "also_known_as": [
+      "El campo de los sue\u00f1os"
+    ], 
+    "imdb_id": "tt0097351", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Boston, Massachusetts, USA", 
+    "writers": [
+      "W.P. Kinsella", 
+      "Phil Alden Robinson"
+    ], 
+    "actors": [
+      "Kevin Costner", 
+      "Amy Madigan", 
+      "Gaby Hoffmann", 
+      "Ray Liotta", 
+      "Timothy Busfield", 
+      "James Earl Jones", 
+      "Burt Lancaster", 
+      "Frank Whaley", 
+      "Dwier Brown", 
+      "James Andelin", 
+      "Mary Anne Kean", 
+      "Fern Persons", 
+      "Kelly Coffield Park", 
+      "Michael Milhoan", 
+      "Steve Eastin"
+    ], 
+    "plot_simple": "An Iowa corn farmer, hearing voices, interprets them as a command to build a baseball diamond in his fields; he does, and the Chicago Black Sox come.", 
+    "year": 1989, 
+    "runtime": [
+      "107 min"
+    ], 
+    "type": "M", 
+    "release_date": 19890421, 
+    "rating_count": 58198
+  }, 
+  {
+    "rating": 7.9, 
+    "genres": [
+      "Action", 
+      "Adventure", 
+      "Sci-Fi"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English", 
+      "Spanish"
+    ], 
+    "title": "Predator", 
+    "poster": "http://img5.douban.com/lpic/s2609799.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0093773/", 
+    "directors": [
+      "John McTiernan"
+    ], 
+    "also_known_as": [
+      "Depredador"
+    ], 
+    "imdb_id": "tt0093773", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Jalisco, Mexico", 
+    "writers": [
+      "Jim Thomas", 
+      "John Thomas"
+    ], 
+    "actors": [
+      "Arnold Schwarzenegger", 
+      "Carl Weathers", 
+      "Elpidia Carrillo", 
+      "Bill Duke", 
+      "Jesse Ventura", 
+      "Sonny Landham", 
+      "Richard Chaves", 
+      "R.G. Armstrong", 
+      "Shane Black", 
+      "Kevin Peter Hall"
+    ], 
+    "plot_simple": "A team of commandos, on a mission in a Central American jungle, find themselves hunted by an extra-terrestrial warrior.", 
+    "year": 1987, 
+    "runtime": [
+      "107 min"
+    ], 
+    "type": "M", 
+    "release_date": 19870612, 
+    "rating_count": 168660
+  }, 
+  {
+    "rating": 7.8, 
+    "genres": [
+      "Action", 
+      "Adventure", 
+      "Crime", 
+      "Thriller"
+    ], 
+    "rated": "TV_PG", 
+    "language": [
+      "English", 
+      "Chinese", 
+      "Spanish"
+    ], 
+    "title": "Goldfinger", 
+    "poster": "http://ia.media-imdb.com/images/M/MV5BMTQ2MzE0OTU3NV5BMl5BanBnXkFtZTcwNjQxNTgzNA@@._V1._SY317_.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0058150/", 
+    "directors": [
+      "Guy Hamilton"
+    ], 
+    "also_known_as": [
+      "007: Goldfinger"
+    ], 
+    "imdb_id": "tt0058150", 
+    "country": [
+      "UK"
+    ], 
+    "filming_locations": "Andermatt, Uri, Switzerland", 
+    "writers": [
+      "Richard Maibaum", 
+      "Paul Dehn", 
+      "and 1 more credit"
+    ], 
+    "actors": [
+      "Sean Connery", 
+      "Honor Blackman", 
+      "Gert Fr\u00f6be", 
+      "Shirley Eaton", 
+      "Tania Mallet", 
+      "Harold Sakata", 
+      "Bernard Lee", 
+      "Martin Benson", 
+      "Cec Linder", 
+      "Austin Willis", 
+      "Lois Maxwell", 
+      "Bill Nagy", 
+      "Michael Mellinger", 
+      "Peter Cranwell", 
+      "Nadja Regin"
+    ], 
+    "plot_simple": "Investigating a gold magnate's smuggling, James Bond uncovers a plot to contaminate the Fort Knox gold reserve.", 
+    "year": 1964, 
+    "runtime": [
+      "110 min"
+    ], 
+    "type": "M", 
+    "release_date": 19650109, 
+    "rating_count": 83142
+  }, 
+  {
+    "rating": 8.7, 
+    "genres": [
+      "Action", 
+      "Crime", 
+      "Drama", 
+      "Thriller"
+    ], 
+    "rated": "PG_13", 
+    "language": [
+      "English"
+    ], 
+    "title": "The Dark Knight Rises", 
+    "poster": "http://img3.douban.com/lpic/s9127643.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt1345836/", 
+    "directors": [
+      "Christopher Nolan"
+    ], 
+    "also_known_as": [
+      "T.D.K.R."
+    ], 
+    "imdb_id": "tt1345836", 
+    "country": [
+      "USA", 
+      "UK"
+    ], 
+    "filming_locations": "El Camino College, Torrance, California, USA", 
+    "writers": [
+      "Jonathan Nolan", 
+      "Christopher Nolan"
+    ], 
+    "actors": [
+      "Christian Bale", 
+      "Gary Oldman", 
+      "Tom Hardy", 
+      "Joseph Gordon-Levitt", 
+      "Anne Hathaway", 
+      "Marion Cotillard", 
+      "Morgan Freeman", 
+      "Michael Caine", 
+      "Matthew Modine", 
+      "Alon Aboutboul", 
+      "Ben Mendelsohn", 
+      "Burn Gorman", 
+      "Daniel Sunjata", 
+      "Aidan Gillen", 
+      "Sam Kennard"
+    ], 
+    "plot_simple": "Eight years on, a new terrorist leader, Bane, overwhelms Gotham's finest, and the Dark Knight resurfaces to protect a city that has branded him an enemy.", 
+    "year": 2012, 
+    "runtime": [
+      "165 min"
+    ], 
+    "type": "M", 
+    "release_date": 20120720, 
+    "rating_count": 478360
+  }, 
+  {
+    "rating": 7.0, 
+    "genres": [
+      "Animation", 
+      "Adventure", 
+      "Comedy", 
+      "Family", 
+      "Musical"
+    ], 
+    "rated": "G", 
+    "language": [
+      "English", 
+      "Portuguese"
+    ], 
+    "title": "Rio", 
+    "poster": "http://img3.douban.com/lpic/s4564572.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt1436562/", 
+    "also_known_as": [
+      "\u0420\u0438\u043e"
+    ], 
+    "imdb_id": "tt1436562", 
+    "country": [
+      "USA"
+    ], 
+    "directors": [
+      "Carlos Saldanha"
+    ], 
+    "writers": [
+      "Carlos Saldanha", 
+      "Earl Richey Jones"
+    ], 
+    "actors": [
+      "Karen Disher", 
+      "Jason Fricchione", 
+      "Sofia Scarpa Saldanha", 
+      "Leslie Mann", 
+      "Kelly Keaton", 
+      "Jesse Eisenberg", 
+      "Wanda Sykes", 
+      "Jane Lynch", 
+      "Rodrigo Santoro", 
+      "Gracinha Leporace", 
+      "Jamie Foxx", 
+      "Will i Am", 
+      "Phil Miler", 
+      "Anne Hathaway", 
+      "Bernardo de Paula"
+    ], 
+    "plot_simple": "When Blu, a domesticated macaw from small-town Minnesota, meets the fiercely independent Jewel, he takes off on an adventure to Rio de Janeiro with this bird of his dreams.", 
+    "year": 2011, 
+    "runtime": [
+      "96 min"
+    ], 
+    "type": "M", 
+    "release_date": 20110408, 
+    "rating_count": 77507
+  }, 
+  {
+    "rating": 8.1, 
+    "genres": [
+      "Adventure", 
+      "Drama"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "Stand by Me", 
+    "poster": "http://img3.douban.com/lpic/s3246200.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0092005/", 
+    "directors": [
+      "Rob Reiner"
+    ], 
+    "also_known_as": [
+      "Cuenta conmigo"
+    ], 
+    "imdb_id": "tt0092005", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "380 South San Rafael Avenue, Pasadena, California, USA", 
+    "writers": [
+      "Stephen King", 
+      "Raynold Gideon", 
+      "and 1 more credit"
+    ], 
+    "actors": [
+      "Wil Wheaton", 
+      "River Phoenix", 
+      "Corey Feldman", 
+      "Jerry O'Connell", 
+      "Kiefer Sutherland", 
+      "Casey Siemaszko", 
+      "Gary Riley", 
+      "Bradley Gregg", 
+      "Jason Oliver", 
+      "Marshall Bell", 
+      "Frances Lee McCain", 
+      "Bruce Kirby", 
+      "William Bronder", 
+      "Scott Beach", 
+      "Richard Dreyfuss"
+    ], 
+    "plot_simple": "After the death of a friend, a writer recounts a boyhood journey to find the body of a missing boy.", 
+    "year": 1986, 
+    "runtime": [
+      "89 min"
+    ], 
+    "type": "M", 
+    "release_date": 19860808, 
+    "rating_count": 150364
+  }, 
+  {
+    "rating": 7.9, 
+    "genres": [
+      "Animation", 
+      "Adventure", 
+      "Comedy", 
+      "Family", 
+      "Fantasy"
+    ], 
+    "rated": "PG", 
+    "language": [
+      "English"
+    ], 
+    "title": "Shrek", 
+    "poster": "http://img3.douban.com/lpic/s4075291.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0126029/", 
+    "also_known_as": [
+      "\u0160rek"
+    ], 
+    "imdb_id": "tt0126029", 
+    "country": [
+      "USA"
+    ], 
+    "directors": [
+      "Andrew Adamson", 
+      "Vicky Jenson"
+    ], 
+    "writers": [
+      "William Steig", 
+      "Ted Elliott"
+    ], 
+    "actors": [
+      "Mike Myers", 
+      "Eddie Murphy", 
+      "Cameron Diaz", 
+      "John Lithgow", 
+      "Vincent Cassel", 
+      "Peter Dennis", 
+      "Clive Pearse", 
+      "Jim Cummings", 
+      "Bobby Block", 
+      "Chris Miller", 
+      "Cody Cameron", 
+      "Kathleen Freeman", 
+      "Michael Galasso", 
+      "Christopher Knights", 
+      "Simon J. Smith"
+    ], 
+    "plot_simple": "An ogre, in order to regain his swamp, travels along with an annoying donkey in order to bring a princess to a scheming lord, wishing himself King.", 
+    "year": 2001, 
+    "runtime": [
+      "90 min"
+    ], 
+    "type": "M", 
+    "release_date": 20010518, 
+    "rating_count": 268552
+  }, 
+  {
+    "rating": 7.1, 
+    "genres": [
+      "Drama", 
+      "Sci-Fi", 
+      "Thriller"
+    ], 
+    "rated": "PG_13", 
+    "language": [
+      "English"
+    ], 
+    "title": "Chronicle", 
+    "poster": "http://img3.douban.com/lpic/s7261878.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt1706593/", 
+    "directors": [
+      "Josh Trank"
+    ], 
+    "also_known_as": [
+      "Poder sin l\u00edmites"
+    ], 
+    "imdb_id": "tt1706593", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Artscape Theater, D F Malan Street, Cape Town, Western Cape, South Africa", 
+    "writers": [
+      "Max Landis", 
+      "Max Landis", 
+      "and 1 more credit"
+    ], 
+    "actors": [
+      "Dane DeHaan", 
+      "Alex Russell", 
+      "Michael B. Jordan", 
+      "Michael Kelly", 
+      "Ashley Hinshaw", 
+      "Bo Petersen", 
+      "Anna Wood", 
+      "Rudi Malcolm", 
+      "Luke Tyler", 
+      "Crystal-Donna Roberts", 
+      "Adrian Collins", 
+      "Grant Powell", 
+      "Armand Aucamp", 
+      "Nicole Bailey", 
+      "Lynita Crofford"
+    ], 
+    "plot_simple": "Whilst attending a party, three high school friends gain superpowers after making an incredible discovery underground. Soon, though, they find their lives spinning out of control and their bond tested as they embrace their darker sides.", 
+    "year": 2012, 
+    "runtime": [
+      "USA: 84 min", 
+      "USA: 89 min (director's cut)"
+    ], 
+    "type": "M", 
+    "release_date": 20120203, 
+    "rating_count": 104521
+  }, 
+  {
+    "rating": 7.2, 
+    "genres": [
+      "Drama", 
+      "War"
+    ], 
+    "rated": "PG_13", 
+    "language": [
+      "English", 
+      "German"
+    ], 
+    "title": "War Horse", 
+    "poster": "http://img3.douban.com/lpic/s6949506.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt1568911/", 
+    "directors": [
+      "Steven Spielberg"
+    ], 
+    "also_known_as": [
+      "Caballo de guerra"
+    ], 
+    "imdb_id": "tt1568911", 
+    "country": [
+      "USA", 
+      "India"
+    ], 
+    "filming_locations": "Holwell Farm, Bonehill Rocks, Widecombe-in-the-Moor, Devon", 
+    "writers": [
+      "Lee Hall", 
+      "Richard Curtis"
+    ], 
+    "actors": [
+      "Jeremy Irvine", 
+      "Peter Mullan", 
+      "Emily Watson", 
+      "Niels Arestrup", 
+      "David Thewlis", 
+      "Tom Hiddleston", 
+      "Benedict Cumberbatch", 
+      "Celine Buckens", 
+      "Toby Kebbell", 
+      "Patrick Kennedy", 
+      "Leonard Carow", 
+      "David Kross", 
+      "Matt Milne", 
+      "Robert Emms", 
+      "Eddie Marsan"
+    ], 
+    "plot_simple": "Young Albert enlists to serve in World War I after his beloved horse is sold to the cavalry. Albert's hopeful journey takes him out of England and to the front lines as the war rages on.", 
+    "year": 2011, 
+    "runtime": [
+      "146 min"
+    ], 
+    "type": "M", 
+    "release_date": 20111225, 
+    "rating_count": 60675
+  }, 
+  {
+    "rating": 7.7, 
+    "genres": [
+      "Adventure", 
+      "Comedy", 
+      "Family"
+    ], 
+    "rated": "TV_14", 
+    "language": [
+      "English", 
+      "Spanish", 
+      "Cantonese", 
+      "Italian"
+    ], 
+    "title": "The Goonies", 
+    "poster": "http://img3.douban.com/lpic/s3052115.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0089218/", 
+    "directors": [
+      "Richard Donner"
+    ], 
+    "also_known_as": [
+      "Los goonies"
+    ], 
+    "imdb_id": "tt0089218", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "California, USA", 
+    "writers": [
+      "Steven Spielberg", 
+      "Chris Columbus"
+    ], 
+    "actors": [
+      "Sean Astin", 
+      "Josh Brolin", 
+      "Jeff Cohen", 
+      "Corey Feldman", 
+      "Kerri Green", 
+      "Martha Plimpton", 
+      "Jonathan Ke Quan", 
+      "John Matuszak", 
+      "Robert Davi", 
+      "Joe Pantoliano", 
+      "Anne Ramsey", 
+      "Lupe Ontiveros", 
+      "Mary Ellen Trainor", 
+      "Keith Walker", 
+      "Curtis Hanson"
+    ], 
+    "plot_simple": "A group of kids embark on a wild adventure after finding a pirate treasure map.", 
+    "year": 1985, 
+    "runtime": [
+      "114 min"
+    ], 
+    "type": "M", 
+    "release_date": 19850607, 
+    "rating_count": 100559
+  }, 
+  {
+    "rating": 7.3, 
+    "genres": [
+      "Action", 
+      "Crime", 
+      "Thriller"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English", 
+      "Russian"
+    ], 
+    "title": "RocknRolla", 
+    "poster": "http://img3.douban.com/lpic/s3208476.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt1032755/", 
+    "directors": [
+      "Guy Ritchie"
+    ], 
+    "also_known_as": [
+      "Rock n Rolla"
+    ], 
+    "imdb_id": "tt1032755", 
+    "country": [
+      "UK", 
+      "USA"
+    ], 
+    "filming_locations": "Abandoned Railway Line, near London City Airport, Newham, East London, London, England, UK", 
+    "writers": [
+      "Guy Ritchie"
+    ], 
+    "actors": [
+      "Gerard Butler", 
+      "Tom Wilkinson", 
+      "Thandie Newton", 
+      "Mark Strong", 
+      "Idris Elba", 
+      "Tom Hardy", 
+      "Karel Roden", 
+      "Toby Kebbell", 
+      "Jeremy Piven", 
+      "Ludacris", 
+      "Jimi Mistry", 
+      "Matt King", 
+      "Geoff Bell", 
+      "Dragan Micanovic", 
+      "Michael Ryan"
+    ], 
+    "plot_simple": "In London, a real-estate scam puts millions of pounds up for grabs, attracting some of the city's scrappiest tough guys and its more established underworld types, all of whom are looking to get rich quick. While the city's seasoned criminals vie for the cash, an unexpected player -- a drugged out rock 'n' roller presumed to be dead but very much alive...", 
+    "year": 2008, 
+    "runtime": [
+      "114 min"
+    ], 
+    "type": "M", 
+    "release_date": 20081031, 
+    "rating_count": 117592
+  }, 
+  {
+    "rating": 7.2, 
+    "genres": [
+      "Comedy", 
+      "Drama", 
+      "Romance"
+    ], 
+    "rated": "PG_13", 
+    "language": [
+      "English"
+    ], 
+    "title": "Definitely, Maybe", 
+    "poster": "http://img3.douban.com/lpic/s2888761.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0832266/", 
+    "directors": [
+      "Adam Brooks"
+    ], 
+    "also_known_as": [
+      "Un jour, peut-\u00eatre"
+    ], 
+    "imdb_id": "tt0832266", 
+    "country": [
+      "UK", 
+      "USA", 
+      "France"
+    ], 
+    "filming_locations": "New York City, New York, USA", 
+    "writers": [
+      "Adam Brooks"
+    ], 
+    "actors": [
+      "Ryan Reynolds", 
+      "An Nguyen", 
+      "Matthew Mason", 
+      "Rick Derby", 
+      "Sakina Jaffrey", 
+      "Bob Wiltfong", 
+      "Ryder Chasin", 
+      "Fiona Lane", 
+      "Dana Eskelson", 
+      "Blake Benitez", 
+      "Paulina Gerzon", 
+      "Victoria Goldsmith", 
+      "Ashtyn Greenstein", 
+      "Ashley Grenier", 
+      "Dylan Hartigan"
+    ], 
+    "plot_simple": "A political consultant tries to explain his impending divorce and past relationships to his 11-year-old daughter.", 
+    "year": 2008, 
+    "runtime": [
+      "UK: 112 min"
+    ], 
+    "type": "M", 
+    "release_date": 20080214, 
+    "rating_count": 77262
+  }, 
+  {
+    "rating": 7.8, 
+    "genres": [
+      "Thriller"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "Misery", 
+    "poster": "http://img5.douban.com/lpic/s2875539.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0100157/", 
+    "directors": [
+      "Rob Reiner"
+    ], 
+    "also_known_as": [
+      "Miseria"
+    ], 
+    "imdb_id": "tt0100157", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "California, USA", 
+    "writers": [
+      "Stephen King", 
+      "William Goldman"
+    ], 
+    "actors": [
+      "James Caan", 
+      "Kathy Bates", 
+      "Richard Farnsworth", 
+      "Frances Sternhagen", 
+      "Lauren Bacall", 
+      "Graham Jarvis", 
+      "Jerry Potter", 
+      "Thomas Brunelle", 
+      "June Christopher", 
+      "Julie Payne", 
+      "Archie Hahn", 
+      "Gregory Snegoff", 
+      "Wendy Bowers", 
+      "Misery the Pig"
+    ], 
+    "plot_simple": "A famous novelist is \"rescued\" from a car crash by an obsessed fan.", 
+    "year": 1990, 
+    "runtime": [
+      "107 min"
+    ], 
+    "type": "M", 
+    "release_date": 19901130, 
+    "rating_count": 75076
+  }, 
+  {
+    "rating": 7.8, 
+    "genres": [
+      "Animation", 
+      "Family", 
+      "Fantasy", 
+      "Musical", 
+      "Romance"
+    ], 
+    "rated": "G", 
+    "language": [
+      "English"
+    ], 
+    "title": "Snow White and the Seven Dwarfs", 
+    "poster": "http://img3.douban.com/lpic/s3742072.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0029583/", 
+    "also_known_as": [
+      "Blancanieves y los siete enanos"
+    ], 
+    "imdb_id": "tt0029583", 
+    "country": [
+      "USA"
+    ], 
+    "directors": [
+      "William Cottrell", 
+      "David Hand", 
+      "and 4 more credits"
+    ], 
+    "writers": [
+      "Ted Sears", 
+      "Richard Creedon"
+    ], 
+    "actors": [
+      "Roy Atwell", 
+      "Stuart Buchanan", 
+      "Adriana Caselotti", 
+      "Hall Johnson Choir", 
+      "Eddie Collins", 
+      "Pinto Colvig", 
+      "Marion Darlington", 
+      "Billy Gilbert", 
+      "Otis Harlan", 
+      "Lucille La Verne", 
+      "Scotty Mattraw", 
+      "Moroni Olsen", 
+      "Purv Pullen", 
+      "Harry Stockwell"
+    ], 
+    "plot_simple": "Snow White, pursued by a jealous queen, hides with the Dwarfs; the queen feeds her a poison apple, but Prince Charming awakens her with a kiss.", 
+    "year": 1937, 
+    "runtime": [
+      "83 min"
+    ], 
+    "type": "M", 
+    "release_date": 19380204, 
+    "rating_count": 71466
+  }, 
+  {
+    "rating": 7.1, 
+    "genres": [
+      "Action", 
+      "Adventure", 
+      "Drama", 
+      "History", 
+      "War"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English", 
+      "Arabic", 
+      "Latin", 
+      "Italian"
+    ], 
+    "title": "Kingdom of Heaven", 
+    "poster": "http://ia.media-imdb.com/images/M/MV5BMjE2MTIwNjg0MV5BMl5BanBnXkFtZTcwNjAxODIzMw@@._V1._SY317_.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0320661/", 
+    "directors": [
+      "Ridley Scott"
+    ], 
+    "also_known_as": [
+      "El reino de los cielos"
+    ], 
+    "imdb_id": "tt0320661", 
+    "country": [
+      "USA", 
+      "UK", 
+      "Spain", 
+      "Germany", 
+      "Morocco"
+    ], 
+    "filming_locations": "Atlas Corporation Studios, Ouarzazate, Morocco", 
+    "writers": [
+      "William Monahan"
+    ], 
+    "actors": [
+      "Martin Hancock", 
+      "Michael Sheen", 
+      "Nathalie Cox", 
+      "Eriq Ebouaney", 
+      "Jouko Ahola", 
+      "David Thewlis", 
+      "Liam Neeson", 
+      "Philip Glenister", 
+      "Orlando Bloom", 
+      "Bronson Webb", 
+      "Kevin McKidd", 
+      "Nikolaj Coster-Waldau", 
+      "Steven Robertson", 
+      "Marton Csokas", 
+      "Alexander Siddig"
+    ], 
+    "plot_simple": "Balian of Ibelin travels to Jerusalem during the crusades of the 12th century, and there he finds himself as the defender of the city and its people.", 
+    "year": 2005, 
+    "runtime": [
+      "144 min", 
+      "190 min (director's cut) (Blu-Ray Disc)", 
+      "192 min (director's cut)"
+    ], 
+    "type": "M", 
+    "release_date": 20050506, 
+    "rating_count": 133283
+  }, 
+  {
+    "rating": 8.6, 
+    "genres": [
+      "Action", 
+      "Drama", 
+      "War"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English", 
+      "French", 
+      "German", 
+      "Czech"
+    ], 
+    "title": "Saving Private Ryan", 
+    "poster": "http://img3.douban.com/lpic/s2383216.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0120815/", 
+    "directors": [
+      "Steven Spielberg"
+    ], 
+    "also_known_as": [
+      "Rescatando al soldado Ryan"
+    ], 
+    "imdb_id": "tt0120815", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Calvados, France", 
+    "writers": [
+      "Robert Rodat"
+    ], 
+    "actors": [
+      "Tom Hanks", 
+      "Tom Sizemore", 
+      "Edward Burns", 
+      "Barry Pepper", 
+      "Adam Goldberg", 
+      "Vin Diesel", 
+      "Giovanni Ribisi", 
+      "Jeremy Davies", 
+      "Matt Damon", 
+      "Ted Danson", 
+      "Paul Giamatti", 
+      "Dennis Farina", 
+      "Joerg Stadler", 
+      "Max Martini", 
+      "Dylan Bruno"
+    ], 
+    "plot_simple": "Following the Normandy Landings, a group of US soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.", 
+    "year": 1998, 
+    "runtime": [
+      "169 min"
+    ], 
+    "type": "M", 
+    "release_date": 19980724, 
+    "rating_count": 451855
+  }, 
+  {
+    "rating": 7.6, 
+    "genres": [
+      "Drama", 
+      "History"
+    ], 
+    "rated": "PG", 
+    "language": [
+      "English"
+    ], 
+    "title": "Good Night, and Good Luck.", 
+    "poster": "http://img3.douban.com/lpic/s1445404.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0433383/", 
+    "directors": [
+      "George Clooney"
+    ], 
+    "also_known_as": [
+      "Good Night, and Good Luck"
+    ], 
+    "imdb_id": "tt0433383", 
+    "country": [
+      "USA", 
+      "France", 
+      "UK", 
+      "Japan"
+    ], 
+    "filming_locations": "CBS Television City - 7800 Beverly Blvd., Fairfax, Los Angeles, California, USA", 
+    "writers": [
+      "George Clooney", 
+      "Grant Heslov"
+    ], 
+    "actors": [
+      "Jeff Daniels", 
+      "David Strathairn", 
+      "Alex Borstein", 
+      "Rose Abdoo", 
+      "Dianne Reeves", 
+      "Peter Martin", 
+      "Christoph Luty", 
+      "Jeff Hamilton", 
+      "Matt Catingub", 
+      "Tate Donovan", 
+      "Reed Diamond", 
+      "Matt Ross", 
+      "Patricia Clarkson", 
+      "Robert Downey Jr.", 
+      "George Clooney"
+    ], 
+    "plot_simple": "Broadcast journalist  looks to bring down Senator .", 
+    "year": 2005, 
+    "runtime": [
+      "93 min"
+    ], 
+    "type": "M", 
+    "release_date": 20051014, 
+    "rating_count": 62346
+  }, 
+  {
+    "rating": 8.0, 
+    "genres": [
+      "Drama", 
+      "Sci-Fi"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English", 
+      "Spanish"
+    ], 
+    "title": "Moon", 
+    "poster": "http://img3.douban.com/lpic/s4048415.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt1182345/", 
+    "directors": [
+      "Duncan Jones"
+    ], 
+    "also_known_as": [
+      "\u041b\u0443\u043d\u0430 2112"
+    ], 
+    "imdb_id": "tt1182345", 
+    "country": [
+      "UK"
+    ], 
+    "filming_locations": "Shepperton Studios, Shepperton, Surrey, England, UK", 
+    "writers": [
+      "Duncan Jones", 
+      "Nathan Parker"
+    ], 
+    "actors": [
+      "Sam Rockwell", 
+      "Kevin Spacey", 
+      "Dominique McElligott", 
+      "Rosie Shaw", 
+      "Adrienne Shaw", 
+      "Kaya Scodelario", 
+      "Benedict Wong", 
+      "Matt Berry", 
+      "Malcolm Stewart", 
+      "Robin Chalk"
+    ], 
+    "plot_simple": "Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon, where he, working alongside his computer, GERTY, sends back to Earth parcels of a resource that has helped diminish our planet's power problems.", 
+    "year": 2009, 
+    "runtime": [
+      "97 min"
+    ], 
+    "type": "M", 
+    "release_date": 20090717, 
+    "rating_count": 134001
+  }, 
+  {
+    "rating": 7.5, 
+    "genres": [
+      "Horror", 
+      "Sci-Fi"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "The Fly", 
+    "poster": "http://img3.douban.com/lpic/s3518766.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0091064/", 
+    "directors": [
+      "David Cronenberg"
+    ], 
+    "also_known_as": [
+      "La mouche"
+    ], 
+    "imdb_id": "tt0091064", 
+    "country": [
+      "USA", 
+      "UK", 
+      "Canada"
+    ], 
+    "filming_locations": "John Anderson Charcoal Broiled Hamburgers, 5270 Yonge Street, Willowdale, Toronto, Ontario, Canada", 
+    "writers": [
+      "George Langelaan", 
+      "Charles Edward Pogue", 
+      "and 1 more credit"
+    ], 
+    "actors": [
+      "Jeff Goldblum", 
+      "Geena Davis", 
+      "John Getz", 
+      "Joy Boushel", 
+      "Leslie Carlson", 
+      "George Chuvalo", 
+      "Michael Copeman", 
+      "David Cronenberg", 
+      "Carol Lazare", 
+      "Shawn Hewitt"
+    ], 
+    "plot_simple": "A brilliant but eccentric scientist begins to transform into a giant man/fly hybrid after one of his experiments goes horribly wrong.", 
+    "year": 1986, 
+    "runtime": [
+      "96 min"
+    ], 
+    "type": "M", 
+    "release_date": 19860815, 
+    "rating_count": 67989
+  }, 
+  {
+    "rating": 7.7, 
+    "genres": [
+      "Action", 
+      "Adventure", 
+      "Drama", 
+      "History", 
+      "War"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English", 
+      "Japanese"
+    ], 
+    "title": "The Last Samurai", 
+    "poster": "http://img3.douban.com/lpic/s3017992.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0325710/", 
+    "directors": [
+      "Edward Zwick"
+    ], 
+    "also_known_as": [
+      "The Last Samurai: Bushidou"
+    ], 
+    "imdb_id": "tt0325710", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Santa Clarita, California, USA", 
+    "writers": [
+      "John Logan", 
+      "John Logan"
+    ], 
+    "actors": [
+      "Ken Watanabe", 
+      "Tom Cruise", 
+      "William Atherton", 
+      "Chad Lindberg", 
+      "Ray Godshall Sr.", 
+      "Billy Connolly", 
+      "Tony Goldwyn", 
+      "Masato Harada", 
+      "Masashi Odate", 
+      "John Koyama", 
+      "Timothy Spall", 
+      "Shichinosuke Nakamura", 
+      "Togo Igawa", 
+      "Satoshi Nikaido", 
+      "Shintaro Wada"
+    ], 
+    "plot_simple": "An American military advisor embraces the Samurai culture he was hired to destroy after he is captured in battle.", 
+    "year": 2003, 
+    "runtime": [
+      "154 min"
+    ], 
+    "type": "M", 
+    "release_date": 20031205, 
+    "rating_count": 188855
+  }, 
+  {
+    "rating": 8.2, 
+    "genres": [
+      "Adventure", 
+      "Family", 
+      "Fantasy", 
+      "Musical"
+    ], 
+    "language": [
+      "English"
+    ], 
+    "title": "The Wizard of Oz", 
+    "poster": "http://img3.douban.com/lpic/s1476490.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0032138/", 
+    "directors": [
+      "Victor Fleming", 
+      "and 4 more credits"
+    ], 
+    "also_known_as": [
+      "El mago de Oz"
+    ], 
+    "imdb_id": "tt0032138", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Culver City, California, USA", 
+    "writers": [
+      "Noel Langley", 
+      "Florence Ryerson"
+    ], 
+    "actors": [
+      "Judy Garland", 
+      "Frank Morgan", 
+      "Ray Bolger", 
+      "Bert Lahr", 
+      "Jack Haley", 
+      "Billie Burke", 
+      "Margaret Hamilton", 
+      "Charley Grapewin", 
+      "Pat Walshe", 
+      "Clara Blandick", 
+      "Terry", 
+      "The Singer Midgets"
+    ], 
+    "plot_simple": "Dorothy Gale is swept away to a magical land in a tornado and embarks on a quest to see the Wizard who can help her return home.", 
+    "year": 1939, 
+    "runtime": [
+      "101 min"
+    ], 
+    "type": "M", 
+    "release_date": 19390825, 
+    "rating_count": 159891
+  }, 
+  {
+    "rating": 7.9, 
+    "genres": [
+      "Action", 
+      "Adventure", 
+      "Sci-Fi"
+    ], 
+    "rated": "PG_13", 
+    "language": [
+      "English", 
+      "Persian", 
+      "Urdu", 
+      "Arabic"
+    ], 
+    "title": "Iron Man", 
+    "poster": "http://ia.media-imdb.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1._SY317_.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0371746/", 
+    "directors": [
+      "Jon Favreau"
+    ], 
+    "also_known_as": [
+      "Ironman"
+    ], 
+    "imdb_id": "tt0371746", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Palmdale Regional Airport, Palmdale, California, USA", 
+    "writers": [
+      "Mark Fergus", 
+      "Hawk Ostby"
+    ], 
+    "actors": [
+      "Robert Downey Jr.", 
+      "Terrence Howard", 
+      "Jeff Bridges", 
+      "Gwyneth Paltrow", 
+      "Leslie Bibb", 
+      "Shaun Toub", 
+      "Faran Tahir", 
+      "Clark Gregg", 
+      "Bill Smitrovich", 
+      "Sayed Badreya", 
+      "Paul Bettany", 
+      "Jon Favreau", 
+      "Peter Billingsley", 
+      "Tim Guinee", 
+      "Will Lyman"
+    ], 
+    "plot_simple": "When wealthy industrialist Tony Stark is forced to build an armored suit after a life-threatening incident, he ultimately decides to use its technology to fight against evil.", 
+    "year": 2008, 
+    "runtime": [
+      "126 min"
+    ], 
+    "type": "M", 
+    "release_date": 20080502, 
+    "rating_count": 340313
+  }, 
+  {
+    "rating": 7.7, 
+    "genres": [
+      "Drama"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "Little Children", 
+    "poster": "http://img3.douban.com/lpic/s1798621.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0404203/", 
+    "directors": [
+      "Todd Field"
+    ], 
+    "also_known_as": [
+      "Secretos \u00edntimos"
+    ], 
+    "imdb_id": "tt0404203", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Boothbay Harbor, Maine, USA", 
+    "writers": [
+      "Todd Field", 
+      "Tom Perrotta", 
+      "and 1 more credit"
+    ], 
+    "actors": [
+      "Kate Winslet", 
+      "Jennifer Connelly", 
+      "Patrick Wilson", 
+      "Jackie Earle Haley", 
+      "Noah Emmerich", 
+      "Gregg Edelman", 
+      "Phyllis Somerville", 
+      "Raymond J. Barry", 
+      "Jane Adams", 
+      "Ty Simpkins", 
+      "Sadie Goldstein", 
+      "Helen Carey", 
+      "Sarah Buxton", 
+      "Mary B. McCann", 
+      "Trini Alvarado"
+    ], 
+    "plot_simple": "The lives of two lovelorn spouses from separate marriages, a registered sex offender, and a disgraced ex-police officer intersect as they struggle to resist their vulnerabilities and temptations.", 
+    "year": 2006, 
+    "runtime": [
+      "137 min (DVD)"
+    ], 
+    "type": "M", 
+    "release_date": 20061103, 
+    "rating_count": 63290
+  }, 
+  {
+    "rating": 8.4, 
+    "genres": [
+      "Action", 
+      "Biography", 
+      "Drama", 
+      "History", 
+      "War"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English", 
+      "French", 
+      "Latin", 
+      "Gaelic"
+    ], 
+    "title": "Braveheart", 
+    "poster": "http://img3.douban.com/lpic/s2804838.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0112573/", 
+    "directors": [
+      "Mel Gibson"
+    ], 
+    "also_known_as": [
+      "Coraz\u00f3n valiente"
+    ], 
+    "imdb_id": "tt0112573", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Aonach Eagach, Highland, Scotland, UK", 
+    "writers": [
+      "Randall Wallace"
+    ], 
+    "actors": [
+      "James Robinson", 
+      "Sean Lawlor", 
+      "Sandy Nelson", 
+      "James Cosmo", 
+      "Sean McGinley", 
+      "Alan Tall", 
+      "Andrew Weir", 
+      "Gerda Stevenson", 
+      "Ralph Riach", 
+      "Mhairi Calvey", 
+      "Brian Cox", 
+      "Patrick McGoohan", 
+      "Peter Hanly", 
+      "Sophie Marceau", 
+      "Stephen Billington"
+    ], 
+    "plot_simple": "When his secret bride is executed for assaulting an English soldier whom tried to rape her, a commoner begins a revolt and leads Scottish warriors against the cruel English tyrant who rules Scotland with an iron-fist.", 
+    "year": 1995, 
+    "runtime": [
+      "177 min"
+    ], 
+    "type": "M", 
+    "release_date": 19950524, 
+    "rating_count": 401452
+  }, 
+  {
+    "rating": 8.5, 
+    "genres": [
+      "Action", 
+      "Adventure", 
+      "Sci-Fi", 
+      "Thriller"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "Aliens", 
+    "poster": "http://img5.douban.com/lpic/s4053659.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0090605/", 
+    "directors": [
+      "James Cameron"
+    ], 
+    "also_known_as": [
+      "Aliens: El regreso"
+    ], 
+    "imdb_id": "tt0090605", 
+    "country": [
+      "USA", 
+      "UK"
+    ], 
+    "filming_locations": "Acton Lane Power Station, Acton Lane, Acton, London, England, UK", 
+    "writers": [
+      "James Cameron", 
+      "David Giler"
+    ], 
+    "actors": [
+      "Sigourney Weaver", 
+      "Carrie Henn", 
+      "Michael Biehn", 
+      "Paul Reiser", 
+      "Lance Henriksen", 
+      "Bill Paxton", 
+      "Jenette Goldstein", 
+      "William Hope", 
+      "Al Matthews", 
+      "Mark Rolston", 
+      "Ricco Ross", 
+      "Colette Hiller", 
+      "Daniel Kash", 
+      "Cynthia Dale Scott", 
+      "Tip Tipping"
+    ], 
+    "plot_simple": "The planet from \n has been colonized, but contact is lost. This time, the rescue team has impressive firepower, but will it be enough?", 
+    "year": 1986, 
+    "runtime": [
+      "137 min", 
+      "USA: 154 min (1992 special edition)"
+    ], 
+    "type": "M", 
+    "release_date": 19860718, 
+    "rating_count": 274555
+  }, 
+  {
+    "rating": 8.1, 
+    "genres": [
+      "Comedy", 
+      "Drama", 
+      "Fantasy", 
+      "Romance"
+    ], 
+    "rated": "PG", 
+    "language": [
+      "English", 
+      "French", 
+      "Italian"
+    ], 
+    "title": "Groundhog Day", 
+    "poster": "http://img3.douban.com/lpic/s3662815.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0107048/", 
+    "directors": [
+      "Harold Ramis"
+    ], 
+    "also_known_as": [
+      "Hechizo del tiempo"
+    ], 
+    "imdb_id": "tt0107048", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Algonquin, Illinois, USA", 
+    "writers": [
+      "Danny Rubin", 
+      "Harold Ramis", 
+      "and 1 more credit"
+    ], 
+    "actors": [
+      "Bill Murray", 
+      "Andie MacDowell", 
+      "Chris Elliott", 
+      "Stephen Tobolowsky", 
+      "Brian Doyle-Murray", 
+      "Marita Geraghty", 
+      "Angela Paton", 
+      "Rick Ducommun", 
+      "Rick Overton", 
+      "Robin Duke", 
+      "Carol Bivins", 
+      "Willie Garson", 
+      "Ken Hudson Campbell", 
+      "Les Podewell", 
+      "Rod Sell"
+    ], 
+    "plot_simple": "A weatherman finds himself living the same day over and over again.", 
+    "year": 1993, 
+    "runtime": [
+      "101 min"
+    ], 
+    "type": "M", 
+    "release_date": 19930212, 
+    "rating_count": 235738
+  }, 
+  {
+    "rating": 8.2, 
+    "genres": [
+      "Biography", 
+      "Crime", 
+      "Drama"
+    ], 
+    "rated": "NC_17", 
+    "language": [
+      "English", 
+      "French", 
+      "Persian"
+    ], 
+    "title": "Casino", 
+    "poster": "http://img5.douban.com/lpic/s4429139.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0112641/", 
+    "directors": [
+      "Martin Scorsese"
+    ], 
+    "also_known_as": [
+      "\u041a\u0430\u0437\u0438\u043d\u043e"
+    ], 
+    "imdb_id": "tt0112641", 
+    "country": [
+      "USA", 
+      "France"
+    ], 
+    "filming_locations": "357 Desert Inn Road, Las Vegas, Nevada, USA", 
+    "writers": [
+      "Nicholas Pileggi", 
+      "Nicholas Pileggi", 
+      "and 1 more credit"
+    ], 
+    "actors": [
+      "Robert De Niro", 
+      "Sharon Stone", 
+      "Joe Pesci", 
+      "James Woods", 
+      "Frank Vincent", 
+      "Pasquale Cajano", 
+      "Kevin Pollak", 
+      "Don Rickles", 
+      "Vinny Vella", 
+      "Alan King", 
+      "L.Q. Jones", 
+      "Dick Smothers", 
+      "Joseph Rigano", 
+      "John Bloom", 
+      "Melissa Prophet"
+    ], 
+    "plot_simple": "Greed, deception, money, power, and murder occur between two mobster best friends and a trophy wife over a gambling empire.", 
+    "year": 1995, 
+    "runtime": [
+      "178 min"
+    ], 
+    "type": "M", 
+    "release_date": 19951122, 
+    "rating_count": 180835
+  }, 
+  {
+    "rating": 7.0, 
+    "genres": [
+      "Comedy", 
+      "Drama", 
+      "Romance"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English", 
+      "British Sign Language"
+    ], 
+    "title": "Four Weddings and a Funeral", 
+    "poster": "http://img5.douban.com/lpic/s2876569.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0109831/", 
+    "directors": [
+      "Mike Newell"
+    ], 
+    "also_known_as": [
+      "Cuatro bodas y un funeral"
+    ], 
+    "imdb_id": "tt0109831", 
+    "country": [
+      "UK"
+    ], 
+    "filming_locations": "Albury Park, Guildford, Surrey, England, UK", 
+    "writers": [
+      "Richard Curtis"
+    ], 
+    "actors": [
+      "Hugh Grant", 
+      "James Fleet", 
+      "Simon Callow", 
+      "John Hannah", 
+      "Kristin Scott Thomas", 
+      "David Bower", 
+      "Charlotte Coleman", 
+      "Andie MacDowell", 
+      "Timothy Walker", 
+      "Sara Crowe", 
+      "Ronald Herdman", 
+      "Elspet Gray", 
+      "Philip Voss", 
+      "Rupert Vansittart", 
+      "Nicola Walker"
+    ], 
+    "plot_simple": "Over the course of five social occasions, a committed bachelor must consider the notion that he may have discovered love.", 
+    "year": 1994, 
+    "runtime": [
+      "117 min"
+    ], 
+    "type": "M", 
+    "release_date": 19940309, 
+    "rating_count": 67437
+  }, 
+  {
+    "rating": 8.1, 
+    "genres": [
+      "Drama"
+    ], 
+    "rated": "R", 
+    "language": [
+      "Spanish"
+    ], 
+    "title": "Amores perros", 
+    "poster": "http://img3.douban.com/lpic/s2830717.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0245712/", 
+    "directors": [
+      "Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu"
+    ], 
+    "also_known_as": [
+      "Amores Perros"
+    ], 
+    "imdb_id": "tt0245712", 
+    "country": [
+      "Mexico"
+    ], 
+    "filming_locations": "Colonia Condesa, Mexico City, Distrito Federal, Mexico", 
+    "writers": [
+      "Guillermo Arriaga"
+    ], 
+    "actors": [
+      "Emilio Echevarr\u00eda", 
+      "Gael Garc\u00eda Bernal", 
+      "Goya Toledo", 
+      "\u00c1lvaro Guerrero", 
+      "Vanessa Bauche", 
+      "Jorge Salinas", 
+      "Marco P\u00e9rez", 
+      "Rodrigo Murray", 
+      "Humberto Busto", 
+      "Gerardo Campbell", 
+      "Rosa Mar\u00eda Bianchi", 
+      "Dunia Sald\u00edvar", 
+      "Adriana Barraza", 
+      "Jos\u00e9 Sefami", 
+      "Lourdes Echevarr\u00eda"
+    ], 
+    "plot_simple": "A horrific car accident connects three stories, each involving characters dealing with loss, regret, and life's harsh realities, all in the name of love.", 
+    "year": 2000, 
+    "runtime": [
+      "154 min", 
+      "Turkey: 115 min (TV version)"
+    ], 
+    "type": "M", 
+    "release_date": 20000616, 
+    "rating_count": 102560
+  }, 
+  {
+    "rating": 7.0, 
+    "genres": [
+      "Drama", 
+      "Fantasy", 
+      "Mystery", 
+      "Romance"
+    ], 
+    "rated": "PG_13", 
+    "language": [
+      "English"
+    ], 
+    "title": "Meet Joe Black", 
+    "poster": "http://img3.douban.com/lpic/s2561761.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0119643/", 
+    "directors": [
+      "Martin Brest"
+    ], 
+    "also_known_as": [
+      "\u00bfConoces a Joe Black?"
+    ], 
+    "imdb_id": "tt0119643", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Aldrich Mansion - 836 Warwick Neck Avenue, Warwick, Rhode Island, USA", 
+    "writers": [
+      "Ron Osborn", 
+      "Jeff Reno"
+    ], 
+    "actors": [
+      "Brad Pitt", 
+      "Anthony Hopkins", 
+      "Claire Forlani", 
+      "Jake Weber", 
+      "Marcia Gay Harden", 
+      "Jeffrey Tambor", 
+      "David S. Howard", 
+      "Lois Kelly-Miller", 
+      "Jahnni St. John", 
+      "Richard Clarke", 
+      "Marylouise Burke", 
+      "Diane Kagan", 
+      "June Squibb", 
+      "Gene Canfield", 
+      "Suzanne Hevner"
+    ], 
+    "plot_simple": "A media mogul acts as a guide to Death, who takes the form of a young man to learn about life on Earth and in the process, fall in love with his guide's daughter.", 
+    "year": 1998, 
+    "runtime": [
+      "178 min"
+    ], 
+    "type": "M", 
+    "release_date": 19981113, 
+    "rating_count": 101426
+  }, 
+  {
+    "rating": 8.4, 
+    "genres": [
+      "Adventure", 
+      "Drama", 
+      "History", 
+      "War"
+    ], 
+    "rated": "APPROVED", 
+    "language": [
+      "English", 
+      "Japanese", 
+      "Thai"
+    ], 
+    "title": "The Bridge on the River Kwai", 
+    "poster": "http://img3.douban.com/lpic/s6927707.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0050212/", 
+    "directors": [
+      "David Lean"
+    ], 
+    "also_known_as": [
+      "El puente sobre el r\u00edo Kwai"
+    ], 
+    "imdb_id": "tt0050212", 
+    "country": [
+      "UK", 
+      "USA"
+    ], 
+    "filming_locations": "Ambepussa, Sri Lanka", 
+    "writers": [
+      "Pierre Boulle"
+    ], 
+    "actors": [
+      "William Holden", 
+      "Alec Guinness", 
+      "Jack Hawkins", 
+      "Sessue Hayakawa", 
+      "James Donald", 
+      "Geoffrey Horne", 
+      "Andr\u00e9 Morell", 
+      "Peter Williams", 
+      "John Boxer", 
+      "Percy Herbert", 
+      "Harold Goodwin", 
+      "Ann Sears", 
+      "Heihachir\u00f4 \u00d4kawa", 
+      "Keiichir\u00f4 Katsumoto", 
+      "M.R.B. Chakrabandhu"
+    ], 
+    "plot_simple": "After settling his differences with a Japanese PoW camp commander, a British colonel co-operates to oversee his men's construction of a railway bridge for their captors - while oblivious to a plan by the Allies to destroy it.", 
+    "year": 1957, 
+    "runtime": [
+      "161 min"
+    ], 
+    "type": "M", 
+    "release_date": 19571214, 
+    "rating_count": 88004
+  }, 
+  {
+    "rating": 8.0, 
+    "genres": [
+      "Crime", 
+      "Drama", 
+      "Mystery", 
+      "Thriller"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "Mystic River", 
+    "poster": "http://img3.douban.com/lpic/s1317913.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0327056/", 
+    "directors": [
+      "Clint Eastwood"
+    ], 
+    "also_known_as": [
+      "R\u00edo m\u00edstico"
+    ], 
+    "imdb_id": "tt0327056", 
+    "country": [
+      "USA", 
+      "Australia"
+    ], 
+    "filming_locations": "Bear dens, Long Crouch Woods, Franklin Park, Boston, Massachusetts, USA", 
+    "writers": [
+      "Brian Helgeland", 
+      "Dennis Lehane"
+    ], 
+    "actors": [
+      "Sean Penn", 
+      "Tim Robbins", 
+      "Kevin Bacon", 
+      "Laurence Fishburne", 
+      "Marcia Gay Harden", 
+      "Laura Linney", 
+      "Kevin Chapman", 
+      "Tom Guiry", 
+      "Emmy Rossum", 
+      "Spencer Treat Clark", 
+      "Andrew Mackin", 
+      "Adam Nelson", 
+      "Robert Wahlberg", 
+      "Jenny O'Hara", 
+      "John Doman"
+    ], 
+    "plot_simple": "With a childhood tragedy that overshadowed their lives, three men are reunited by circumstance when one loses a daughter.", 
+    "year": 2003, 
+    "runtime": [
+      "138 min"
+    ], 
+    "type": "M", 
+    "release_date": 20031015, 
+    "rating_count": 210980
+  }, 
+  {
+    "rating": 7.5, 
+    "genres": [
+      "Mystery"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "Brick", 
+    "poster": "http://img3.douban.com/lpic/s1687395.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0393109/", 
+    "directors": [
+      "Rian Johnson"
+    ], 
+    "also_known_as": [
+      "\u041f\u0430\u043a\u0435\u0442\u044a\u0442"
+    ], 
+    "imdb_id": "tt0393109", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "San Clemente, California, USA", 
+    "writers": [
+      "Rian Johnson"
+    ], 
+    "actors": [
+      "Joseph Gordon-Levitt", 
+      "Nora Zehetner", 
+      "Lukas Haas", 
+      "Noah Fleiss", 
+      "Matt O'Leary", 
+      "Emilie de Ravin", 
+      "Noah Segan", 
+      "Richard Roundtree", 
+      "Meagan Good", 
+      "Brian White", 
+      "Jonathan Cauff", 
+      "Reedy Gibbs", 
+      "Lucas Babin", 
+      "Tracy Wilcoxen", 
+      "Ari Welkom"
+    ], 
+    "plot_simple": "A teenage loner pushes his way into the underworld of a high school crime ring to investigate the disappearance of his ex-girlfriend.", 
+    "year": 2005, 
+    "runtime": [
+      "110 min"
+    ], 
+    "type": "M", 
+    "release_date": 20060407, 
+    "rating_count": 57822
+  }, 
+  {
+    "rating": 7.1, 
+    "genres": [
+      "Action", 
+      "Drama", 
+      "Family", 
+      "Sport"
+    ], 
+    "rated": "PG", 
+    "language": [
+      "English", 
+      "Japanese"
+    ], 
+    "title": "The Karate Kid", 
+    "poster": "http://img3.douban.com/lpic/s4419236.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0087538/", 
+    "directors": [
+      "John G. Avildsen"
+    ], 
+    "also_known_as": [
+      "The Karate Kid Part I"
+    ], 
+    "imdb_id": "tt0087538", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "5410 Wilshire Blvd., Los Angeles, California, USA", 
+    "writers": [
+      "Robert Mark Kamen"
+    ], 
+    "actors": [
+      "Ralph Macchio", 
+      "Pat Morita", 
+      "Elisabeth Shue", 
+      "Martin Kove", 
+      "Randee Heller", 
+      "William Zabka", 
+      "Ron Thomas", 
+      "Rob Garrison", 
+      "Chad McQueen", 
+      "Tony O'Dell", 
+      "Israel Juarbe", 
+      "William Bassett", 
+      "Larry B. Scott", 
+      "Juli Fields", 
+      "Dana Andersen"
+    ], 
+    "plot_simple": "A handyman/martial arts master agrees to teach a bullied boy karate and shows him that there is more to the martial art than fighting.", 
+    "year": 1984, 
+    "runtime": [
+      "126 min"
+    ], 
+    "type": "M", 
+    "release_date": 19840622, 
+    "rating_count": 67597
+  }, 
+  {
+    "rating": 7.6, 
+    "genres": [
+      "Action", 
+      "Drama", 
+      "Sci-Fi", 
+      "Thriller"
+    ], 
+    "rated": "PG_13", 
+    "language": [
+      "English", 
+      "Sign Languages"
+    ], 
+    "title": "Rise of the Planet of the Apes", 
+    "poster": "http://img3.douban.com/lpic/s6828423.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt1318514/", 
+    "directors": [
+      "Rupert Wyatt"
+    ], 
+    "also_known_as": [
+      "El planeta de los simios: (R)Evoluci\u00f3n"
+    ], 
+    "imdb_id": "tt1318514", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Louisiana, USA", 
+    "writers": [
+      "Rick Jaffa", 
+      "Amanda Silver", 
+      "and 1 more credit"
+    ], 
+    "actors": [
+      "Andy Serkis", 
+      "Karin Konoval", 
+      "Terry Notary", 
+      "Richard Ridings", 
+      "Christopher Gordon", 
+      "Devyn Dalton", 
+      "Jay Caputo", 
+      "James Franco", 
+      "Freida Pinto", 
+      "John Lithgow", 
+      "Brian Cox", 
+      "Tom Felton", 
+      "David Oyelowo", 
+      "Tyler Labine", 
+      "Jamie Harris"
+    ], 
+    "plot_simple": "A substance, designed to help the brain repair itself, gives rise to a super-intelligent chimp who leads an ape uprising.", 
+    "year": 2011, 
+    "runtime": [
+      "105 min"
+    ], 
+    "type": "M", 
+    "release_date": 20110805, 
+    "rating_count": 197224
+  }, 
+  {
+    "rating": 7.2, 
+    "genres": [
+      "Horror", 
+      "Mystery", 
+      "Thriller"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English", 
+      "Japanese"
+    ], 
+    "title": "The Cabin in the Woods", 
+    "poster": "http://img5.douban.com/lpic/s7009449.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt1259521/", 
+    "directors": [
+      "Drew Goddard"
+    ], 
+    "also_known_as": [
+      "La caba\u00f1a del terror"
+    ], 
+    "imdb_id": "tt1259521", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Vancouver, British Columbia, Canada", 
+    "writers": [
+      "Joss Whedon", 
+      "Drew Goddard"
+    ], 
+    "actors": [
+      "Kristen Connolly", 
+      "Chris Hemsworth", 
+      "Anna Hutchison", 
+      "Fran Kranz", 
+      "Jesse Williams", 
+      "Richard Jenkins", 
+      "Bradley Whitford", 
+      "Brian White", 
+      "Amy Acker", 
+      "Tim De Zarn", 
+      "Tom Lenk", 
+      "Dan Payne", 
+      "Jodelle Ferland", 
+      "Dan Shea", 
+      "Maya Massar"
+    ], 
+    "plot_simple": "Five friends go for a break at a remote cabin in the woods, where they get more than they bargained for. Together, they must discover the truth behind the cabin in the woods.", 
+    "year": 2011, 
+    "runtime": [
+      "95 min"
+    ], 
+    "type": "M", 
+    "release_date": 20120413, 
+    "rating_count": 114362
+  }, 
+  {
+    "rating": 8.4, 
+    "genres": [
+      "Crime", 
+      "Drama", 
+      "Mystery"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English", 
+      "Cantonese", 
+      "Spanish"
+    ], 
+    "title": "Chinatown", 
+    "poster": "http://img3.douban.com/lpic/s3539734.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0071315/", 
+    "directors": [
+      "Roman Polanski"
+    ], 
+    "also_known_as": [
+      "\u041a\u0438\u0442\u0430\u0439\u0441\u043a\u0438 \u043a\u0432\u0430\u0440\u0442\u0430\u043b"
+    ], 
+    "imdb_id": "tt0071315", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "1315 South El Molino Drive, South Pasadena, California, USA", 
+    "writers": [
+      "Robert Towne", 
+      "and 1 more credit"
+    ], 
+    "actors": [
+      "Jack Nicholson", 
+      "Faye Dunaway", 
+      "John Huston", 
+      "Perry Lopez", 
+      "John Hillerman", 
+      "Darrell Zwerling", 
+      "Diane Ladd", 
+      "Roy Jenson", 
+      "Roman Polanski", 
+      "Richard Bakalyan", 
+      "Joe Mantell", 
+      "Bruce Glover", 
+      "Nandu Hinds", 
+      "James O'Rear", 
+      "James Hong"
+    ], 
+    "plot_simple": "A private detective investigating an adultery case stumbles on to a scheme of murder that has something to do with water.", 
+    "year": 1974, 
+    "runtime": [
+      "130 min"
+    ], 
+    "type": "M", 
+    "release_date": 19740620, 
+    "rating_count": 124126
+  }, 
+  {
+    "rating": 7.3, 
+    "genres": [
+      "Action", 
+      "Adventure", 
+      "Thriller"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "The Rock", 
+    "poster": "http://img3.douban.com/lpic/s2953833.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0117500/", 
+    "directors": [
+      "Michael Bay"
+    ], 
+    "also_known_as": [
+      "La Roca"
+    ], 
+    "imdb_id": "tt0117500", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Alcatraz Island, San Francisco Bay, California, USA", 
+    "writers": [
+      "David Weisberg", 
+      "Douglas Cook"
+    ], 
+    "actors": [
+      "Sean Connery", 
+      "Nicolas Cage", 
+      "Ed Harris", 
+      "John Spencer", 
+      "David Morse", 
+      "William Forsythe", 
+      "Michael Biehn", 
+      "Vanessa Marcil", 
+      "John C. McGinley", 
+      "Gregory Sporleder", 
+      "Tony Todd", 
+      "Bokeem Woodbine", 
+      "Jim Maniaci", 
+      "Greg Collins", 
+      "Brendan Kelly"
+    ], 
+    "plot_simple": "A renegade general and his group of U.S. Marines take over Alcatraz and threaten San Francisco Bay with biological weapons. A chemical weapons specialist and the only man to have ever escaped from the Rock attempt to prevent chaos.", 
+    "year": 1996, 
+    "runtime": [
+      "136 min"
+    ], 
+    "type": "M", 
+    "release_date": 19960607, 
+    "rating_count": 171497
+  }, 
+  {
+    "rating": 7.3, 
+    "genres": [
+      "Animation", 
+      "Action", 
+      "Adventure", 
+      "Comedy", 
+      "Family"
+    ], 
+    "rated": "PG", 
+    "language": [
+      "English"
+    ], 
+    "title": "Kung Fu Panda 2", 
+    "poster": "http://ia.media-imdb.com/images/M/MV5BMTg4MTQ3NTI3Nl5BMl5BanBnXkFtZTcwNzEzODQ2NA@@._V1._SY317_.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt1302011/", 
+    "also_known_as": [
+      "\u041a\u0443\u043d\u0433-\u0424\u0443 \u041f\u0430\u043d\u0434\u0430 2"
+    ], 
+    "imdb_id": "tt1302011", 
+    "country": [
+      "USA"
+    ], 
+    "directors": [
+      "Jennifer Yuh"
+    ], 
+    "writers": [
+      "Jonathan Aibel", 
+      "Glenn Berger"
+    ], 
+    "actors": [
+      "Jack Black", 
+      "Angelina Jolie", 
+      "Dustin Hoffman", 
+      "Gary Oldman", 
+      "Jackie Chan", 
+      "Seth Rogen", 
+      "Lucy Liu", 
+      "David Cross", 
+      "James Hong", 
+      "Michelle Yeoh", 
+      "Danny McBride", 
+      "Dennis Haysbert", 
+      "Jean-Claude Van Damme", 
+      "Victor Garber", 
+      "Mike Bell"
+    ], 
+    "plot_simple": "Po and his friends fight to stop a peacock villain from conquering China with a deadly new weapon, but first the Dragon Warrior must come to terms with his past.", 
+    "year": 2011, 
+    "runtime": [
+      "91 min"
+    ], 
+    "type": "M", 
+    "release_date": 20110526, 
+    "rating_count": 84898
+  }, 
+  {
+    "rating": 7.4, 
+    "genres": [
+      "Crime", 
+      "Drama", 
+      "Mystery", 
+      "Thriller"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "Mr. Brooks", 
+    "poster": "http://img3.douban.com/lpic/s2352055.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0780571/", 
+    "directors": [
+      "Bruce A. Evans"
+    ], 
+    "also_known_as": [
+      "A Face Oculta de Mr. Brooks"
+    ], 
+    "imdb_id": "tt0780571", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Portland, Oregon, USA", 
+    "writers": [
+      "Bruce A. Evans", 
+      "Raynold Gideon"
+    ], 
+    "actors": [
+      "Kevin Costner", 
+      "Demi Moore", 
+      "Dane Cook", 
+      "William Hurt", 
+      "Marg Helgenberger", 
+      "Ruben Santiago-Hudson", 
+      "Danielle Panabaker", 
+      "Aisha Hinds", 
+      "Lindsay Crouse", 
+      "Jason Lewis", 
+      "Reiko Aylesworth", 
+      "Matt Schulze", 
+      "Yasmine Delawari", 
+      "Traci Dinwiddie", 
+      "Michael Cole"
+    ], 
+    "plot_simple": "A psychological thriller about a man who is sometimes controlled by his murder-and-mayhem-loving alter ego.", 
+    "year": 2007, 
+    "runtime": [
+      "120 min"
+    ], 
+    "type": "M", 
+    "release_date": 20070601, 
+    "rating_count": 82987
+  }, 
+  {
+    "rating": 7.2, 
+    "genres": [
+      "Drama", 
+      "Musical", 
+      "Romance", 
+      "Thriller"
+    ], 
+    "rated": "PG_13", 
+    "language": [
+      "English", 
+      "Italian"
+    ], 
+    "title": "The Phantom of the Opera", 
+    "poster": "http://img3.douban.com/lpic/s1492563.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0293508/", 
+    "directors": [
+      "Joel Schumacher"
+    ], 
+    "also_known_as": [
+      "Andrew Lloyd Webber's The Phantom of the Opera"
+    ], 
+    "imdb_id": "tt0293508", 
+    "country": [
+      "UK", 
+      "USA"
+    ], 
+    "filming_locations": "London, England, UK", 
+    "writers": [
+      "Gaston Leroux", 
+      "Andrew Lloyd Webber"
+    ], 
+    "actors": [
+      "Gerard Butler", 
+      "Emmy Rossum", 
+      "Patrick Wilson", 
+      "Miranda Richardson", 
+      "Minnie Driver", 
+      "Ciar\u00e1n Hinds", 
+      "Simon Callow", 
+      "Victor McGuire", 
+      "Jennifer Ellison", 
+      "Murray Melvin", 
+      "Kevin McNally", 
+      "James Fleet", 
+      "Imogen Bain", 
+      "Miles Western", 
+      "Judith Paris"
+    ], 
+    "plot_simple": "A disfigured musical genius, hidden away in the Paris Opera House, terrorizes the opera company for the unwitting benefit of a young prot\u00e9g\u00e9e whom he trains and loves.", 
+    "year": 2004, 
+    "runtime": [
+      "143 min"
+    ], 
+    "type": "M", 
+    "release_date": 20050121, 
+    "rating_count": 63833
+  }, 
+  {
+    "rating": 8.4, 
+    "genres": [
+      "Comedy"
+    ], 
+    "rated": "NOT_RATED", 
+    "language": [
+      "English"
+    ], 
+    "title": "Some Like It Hot", 
+    "poster": "http://img3.douban.com/lpic/s2719030.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0053291/", 
+    "directors": [
+      "Billy Wilder"
+    ], 
+    "also_known_as": [
+      "Una Eva y dos Adanes"
+    ], 
+    "imdb_id": "tt0053291", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Coronado Beach, Coronado, California, USA", 
+    "writers": [
+      "Billy Wilder", 
+      "I.A.L. Diamond"
+    ], 
+    "actors": [
+      "Marilyn Monroe", 
+      "Tony Curtis", 
+      "Jack Lemmon", 
+      "George Raft", 
+      "Pat O'Brien", 
+      "Joe E. Brown", 
+      "Nehemiah Persoff", 
+      "Joan Shawlee", 
+      "Billy Gray", 
+      "George E. Stone", 
+      "Dave Barry", 
+      "Mike Mazurki", 
+      "Harry Wilson", 
+      "Beverly Wills", 
+      "Barbara Drew"
+    ], 
+    "plot_simple": "When two musicians witness a mob hit, they flee the state in an all female band disguised as women, but further complications set in.", 
+    "year": 1959, 
+    "runtime": [
+      "120 min"
+    ], 
+    "type": "M", 
+    "release_date": 19590329, 
+    "rating_count": 102388
+  }, 
+  {
+    "rating": 7.2, 
+    "genres": [
+      "Action", 
+      "Crime", 
+      "Drama", 
+      "Thriller"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English", 
+      "French", 
+      "Russian"
+    ], 
+    "title": "Ronin", 
+    "poster": "http://img3.douban.com/lpic/s4721743.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0122690/", 
+    "directors": [
+      "John Frankenheimer"
+    ], 
+    "also_known_as": [
+      "\u0420\u043e\u043d\u0438\u043d"
+    ], 
+    "imdb_id": "tt0122690", 
+    "country": [
+      "UK", 
+      "USA"
+    ], 
+    "filming_locations": "Arles, Bouches-du-Rh\u00f4ne, France", 
+    "writers": [
+      "J.D. Zeik", 
+      "J.D. Zeik", 
+      "and 1 more credit"
+    ], 
+    "actors": [
+      "Robert De Niro", 
+      "Jean Reno", 
+      "Natascha McElhone", 
+      "Stellan Skarsg\u00e5rd", 
+      "Sean Bean", 
+      "Skipp Sudduth", 
+      "Michael Lonsdale", 
+      "Jan Tr\u00edska", 
+      "Jonathan Pryce", 
+      "Ron Perkins", 
+      "F\u00e9odor Atkine", 
+      "Katarina Witt", 
+      "Bernard Bloch", 
+      "Dominic Gugliametti", 
+      "Alan Beckworth"
+    ], 
+    "plot_simple": "A freelancing former US intelligence agent tries to track down a mysterious package that is wanted by both the Irish and the Russians.", 
+    "year": 1998, 
+    "runtime": [
+      "122 min"
+    ], 
+    "type": "M", 
+    "release_date": 19980925, 
+    "rating_count": 96921
+  }, 
+  {
+    "rating": 7.7, 
+    "genres": [
+      "Action", 
+      "Crime", 
+      "Thriller"
+    ], 
+    "rated": "PG_13", 
+    "language": [
+      "English", 
+      "Russian", 
+      "German", 
+      "Italian"
+    ], 
+    "title": "The Bourne Supremacy", 
+    "poster": "http://img3.douban.com/lpic/s2661227.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0372183/", 
+    "directors": [
+      "Paul Greengrass"
+    ], 
+    "also_known_as": [
+      "Die Bourne Verschw\u00f6rung"
+    ], 
+    "imdb_id": "tt0372183", 
+    "country": [
+      "USA", 
+      "Germany"
+    ], 
+    "filming_locations": "Alexanderplatz, Mitte, Berlin, Germany", 
+    "writers": [
+      "Robert Ludlum", 
+      "Tony Gilroy"
+    ], 
+    "actors": [
+      "Matt Damon", 
+      "Franka Potente", 
+      "Brian Cox", 
+      "Julia Stiles", 
+      "Karl Urban", 
+      "Gabriel Mann", 
+      "Joan Allen", 
+      "Marton Csokas", 
+      "Tom Gallop", 
+      "John Bedford Lloyd", 
+      "Ethan Sandler", 
+      "Michelle Monaghan", 
+      "Karel Roden", 
+      "Tomas Arana", 
+      "Oksana Akinshina"
+    ], 
+    "plot_simple": "When Jason Bourne is framed for a botched CIA operation he is forced to take up his former life as a trained assassin to survive.", 
+    "year": 2004, 
+    "runtime": [
+      "108 min"
+    ], 
+    "type": "M", 
+    "release_date": 20040723, 
+    "rating_count": 196040
+  }, 
+  {
+    "rating": 7.9, 
+    "genres": [
+      "Drama"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "Dogville", 
+    "poster": "http://img3.douban.com/lpic/s2589972.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0276919/", 
+    "directors": [
+      "Lars von Trier"
+    ], 
+    "also_known_as": [
+      "\u0414\u043e\u0433\u0432\u0438\u043b\u043b\u044c"
+    ], 
+    "imdb_id": "tt0276919", 
+    "country": [
+      "Denmark", 
+      "Sweden", 
+      "UK", 
+      "France", 
+      "Germany", 
+      "Netherlands", 
+      "Norway", 
+      "Finland", 
+      "Italy"
+    ], 
+    "filming_locations": "Film i V\u00e4st, Nohab Industrial Estate, Trollh\u00e4ttan, V\u00e4stra G\u00f6talands l\u00e4n, Sweden", 
+    "writers": [
+      "Lars von Trier"
+    ], 
+    "actors": [
+      "Nicole Kidman", 
+      "Harriet Andersson", 
+      "Lauren Bacall", 
+      "Jean-Marc Barr", 
+      "Paul Bettany", 
+      "Blair Brown", 
+      "James Caan", 
+      "Patricia Clarkson", 
+      "Jeremy Davies", 
+      "Ben Gazzara", 
+      "Philip Baker Hall", 
+      "Thom Hoffman", 
+      "Siobhan Fallon", 
+      "John Hurt", 
+      "Zeljko Ivanek"
+    ], 
+    "plot_simple": "A woman on the run from the mob is reluctantly accepted in a small Colorado town. In exchange, she agrees to work for them. As a search visits town, she finds out that their support has a price. Yet her dangerous secret is never far away...", 
+    "year": 2003, 
+    "runtime": [
+      "178 min", 
+      "Australia: 138 min", 
+      "Italy: 135 min"
+    ], 
+    "type": "M", 
+    "release_date": 20030521, 
+    "rating_count": 70939
+  }, 
+  {
+    "rating": 7.1, 
+    "genres": [
+      "Animation", 
+      "Crime", 
+      "Drama", 
+      "Sci-Fi"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "A Scanner Darkly", 
+    "poster": "http://img5.douban.com/lpic/s1499259.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0405296/", 
+    "directors": [
+      "Richard Linklater"
+    ], 
+    "also_known_as": [
+      "A Scanner Darkly - Der dunkle Schirm"
+    ], 
+    "imdb_id": "tt0405296", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Austin, Texas, USA", 
+    "writers": [
+      "Philip K. Dick", 
+      "Richard Linklater"
+    ], 
+    "actors": [
+      "Rory Cochrane", 
+      "Robert Downey Jr.", 
+      "Mitch Baker", 
+      "Keanu Reeves", 
+      "Sean Allen", 
+      "Cliff Haby", 
+      "Steven Chester Prince", 
+      "Winona Ryder", 
+      "Natasha Valdez", 
+      "Mark Turner", 
+      "Woody Harrelson", 
+      "Chamblee Ferguson", 
+      "Angela Rawna", 
+      "Eliza Stevens", 
+      "Sarah Menchaca"
+    ], 
+    "plot_simple": "An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result.", 
+    "year": 2006, 
+    "runtime": [
+      "100 min"
+    ], 
+    "type": "M", 
+    "release_date": 20060818, 
+    "rating_count": 61283
+  }, 
+  {
+    "rating": 7.2, 
+    "genres": [
+      "Comedy", 
+      "Family", 
+      "Fantasy", 
+      "Musical", 
+      "Romance"
+    ], 
+    "rated": "PG", 
+    "language": [
+      "English"
+    ], 
+    "title": "Enchanted", 
+    "poster": "http://ia.media-imdb.com/images/M/MV5BMjE4NDQ2Mjc0OF5BMl5BanBnXkFtZTcwNzQ2NDE1MQ@@._V1._SY317_CR0,0,214,317_.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0461770/", 
+    "directors": [
+      "Kevin Lima"
+    ], 
+    "also_known_as": [
+      "Encantada"
+    ], 
+    "imdb_id": "tt0461770", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "875 Third Avenue, New York City, New York, USA", 
+    "writers": [
+      "Bill Kelly"
+    ], 
+    "actors": [
+      "Amy Adams", 
+      "Patrick Dempsey", 
+      "James Marsden", 
+      "Timothy Spall", 
+      "Idina Menzel", 
+      "Rachel Covey", 
+      "Susan Sarandon", 
+      "Julie Andrews", 
+      "Jeff Bennett", 
+      "Kevin Lima", 
+      "Emma Rose Lima", 
+      "Teala Dunn", 
+      "Fred Tatasciore", 
+      "Courtney Williams", 
+      "William Huntley"
+    ], 
+    "plot_simple": "A classic Disney fairytale collides with modern-day New York City in a story about a fairytale princess who is sent to our world by an evil queen. Soon after her arrival, Princess Giselle begins to change her views on life and love after meeting a handsome lawyer. Can a storybook view of romance survive in the real world?", 
+    "year": 2007, 
+    "runtime": [
+      "107 min"
+    ], 
+    "type": "M", 
+    "release_date": 20071121, 
+    "rating_count": 88964
+  }, 
+  {
+    "rating": 7.6, 
+    "genres": [
+      "Adventure", 
+      "Drama", 
+      "Romance", 
+      "Thriller"
+    ], 
+    "rated": "PG_13", 
+    "language": [
+      "English"
+    ], 
+    "title": "The Count of Monte Cristo", 
+    "poster": "http://img3.douban.com/lpic/s2338733.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0245844/", 
+    "directors": [
+      "Kevin Reynolds"
+    ], 
+    "also_known_as": [
+      "Alexandre Dumas' The Count of Monte Cristo"
+    ], 
+    "imdb_id": "tt0245844", 
+    "country": [
+      "UK", 
+      "USA", 
+      "Ireland"
+    ], 
+    "filming_locations": "Ardmore Studios, Herbert Road, Bray, County Wicklow, Ireland", 
+    "writers": [
+      "Alexandre Dumas p\u00e8re", 
+      "Jay Wolpert"
+    ], 
+    "actors": [
+      "Jim Caviezel", 
+      "Guy Pearce", 
+      "Richard Harris", 
+      "James Frain", 
+      "Dagmara Dominczyk", 
+      "Michael Wincott", 
+      "Luis Guzm\u00e1n", 
+      "Christopher Adamson", 
+      "JB Blanc", 
+      "Guy Carleton", 
+      "Alex Norton", 
+      "Barry Cassin", 
+      "Henry Cavill", 
+      "Aliaz Moufid", 
+      "Brendan Costello"
+    ], 
+    "plot_simple": "A young man, falsely imprisoned by his jealous \"friends,\" escapes and uses a hidden treasure to exact his revenge", 
+    "year": 2002, 
+    "runtime": [
+      "131 min", 
+      "Spain: 134 min"
+    ], 
+    "type": "M", 
+    "release_date": 20020125, 
+    "rating_count": 68048
+  }, 
+  {
+    "rating": 7.5, 
+    "genres": [
+      "Animation", 
+      "Adventure", 
+      "Comedy", 
+      "Family"
+    ], 
+    "rated": "PG", 
+    "language": [
+      "English", 
+      "Croatian"
+    ], 
+    "title": "Ice Age", 
+    "poster": "http://ia.media-imdb.com/images/M/MV5BMjEyNzI1ODA0MF5BMl5BanBnXkFtZTYwODIxODY3._V1._SY317_.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0268380/", 
+    "also_known_as": [
+      "La era de hielo"
+    ], 
+    "imdb_id": "tt0268380", 
+    "country": [
+      "USA"
+    ], 
+    "directors": [
+      "Chris Wedge", 
+      "Carlos Saldanha"
+    ], 
+    "writers": [
+      "Michael J. Wilson", 
+      "Michael Berg"
+    ], 
+    "actors": [
+      "Ray Romano", 
+      "John Leguizamo", 
+      "Denis Leary", 
+      "Goran Visnjic", 
+      "Jack Black", 
+      "Cedric the Entertainer", 
+      "Stephen Root", 
+      "Diedrich Bader", 
+      "Alan Tudyk", 
+      "Lorri Bagley", 
+      "Jane Krakowski", 
+      "Peter Ackerman", 
+      "P.J. Benjamin", 
+      "Josh Hamilton", 
+      "Chris Wedge"
+    ], 
+    "plot_simple": "Set during the Ice Age, a sabertooth tiger, a sloth, and a wooly mammoth find a lost human infant, and they try to return him to his tribe.", 
+    "year": 2002, 
+    "runtime": [
+      "81 min"
+    ], 
+    "type": "M", 
+    "release_date": 20020315, 
+    "rating_count": 170131
+  }, 
+  {
+    "rating": 7.5, 
+    "genres": [
+      "Action", 
+      "Adventure", 
+      "Sci-Fi"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "Total Recall", 
+    "poster": "http://img3.douban.com/lpic/s1432333.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0100802/", 
+    "directors": [
+      "Paul Verhoeven"
+    ], 
+    "also_known_as": [
+      "El vengador del futuro"
+    ], 
+    "imdb_id": "tt0100802", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Estudios Churubusco Azteca, Mexico City, Distrito Federal, Mexico", 
+    "writers": [
+      "Philip K. Dick", 
+      "Ronald Shusett"
+    ], 
+    "actors": [
+      "Arnold Schwarzenegger", 
+      "Rachel Ticotin", 
+      "Sharon Stone", 
+      "Ronny Cox", 
+      "Michael Ironside", 
+      "Marshall Bell", 
+      "Mel Johnson Jr.", 
+      "Michael Champion", 
+      "Roy Brocksmith", 
+      "Ray Baker", 
+      "Rosemary Dunsmore", 
+      "David Knell", 
+      "Alexia Robinson", 
+      "Dean Norris", 
+      "Mark Carlton"
+    ], 
+    "plot_simple": "When a man goes for virtual vacation memories of the planet Mars, an unexpected and harrowing series of events forces him to go to the planet for real, or does he?", 
+    "year": 1990, 
+    "runtime": [
+      "113 min"
+    ], 
+    "type": "M", 
+    "release_date": 19900601, 
+    "rating_count": 140901
+  }, 
+  {
+    "rating": 8.4, 
+    "genres": [
+      "Drama", 
+      "Romance", 
+      "Sci-Fi"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "Eternal Sunshine of the Spotless Mind", 
+    "poster": "http://img3.douban.com/lpic/s1327734.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0338013/", 
+    "directors": [
+      "Michel Gondry"
+    ], 
+    "also_known_as": [
+      "Eterno resplandor de una mente sin recuerdos"
+    ], 
+    "imdb_id": "tt0338013", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "123 Valentine Lane, Yonkers, New York, USA", 
+    "writers": [
+      "Charlie Kaufman", 
+      "Michel Gondry"
+    ], 
+    "actors": [
+      "Jim Carrey", 
+      "Kate Winslet", 
+      "Gerry Robert Byrne", 
+      "Elijah Wood", 
+      "Thomas Jay Ryan", 
+      "Mark Ruffalo", 
+      "Jane Adams", 
+      "David Cross", 
+      "Kirsten Dunst", 
+      "Tom Wilkinson", 
+      "Ryan Whitney", 
+      "Debbon Ayer", 
+      "Amir Ali Said", 
+      "Brian Price", 
+      "Paulie Litt"
+    ], 
+    "plot_simple": "A couple undergo a procedure to erase each other from their memories when their relationship turns sour, but it is only through the process of loss that they discover what they had to begin with.", 
+    "year": 2004, 
+    "runtime": [
+      "108 min"
+    ], 
+    "type": "M", 
+    "release_date": 20040319, 
+    "rating_count": 366037
+  }, 
+  {
+    "rating": 7.9, 
+    "genres": [
+      "Comedy", 
+      "Crime"
+    ], 
+    "rated": "TV_MA", 
+    "language": [
+      "English"
+    ], 
+    "title": "Office Space", 
+    "poster": "http://img3.douban.com/lpic/s1442213.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0151804/", 
+    "directors": [
+      "Mike Judge"
+    ], 
+    "also_known_as": [
+      "Cubiculos de la oficina"
+    ], 
+    "imdb_id": "tt0151804", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "4120 Friedrich Lane, Austin, Texas, USA", 
+    "writers": [
+      "Mike Judge", 
+      "Mike Judge"
+    ], 
+    "actors": [
+      "Ron Livingston", 
+      "Jennifer Aniston", 
+      "David Herman", 
+      "Ajay Naidu", 
+      "Diedrich Bader", 
+      "Stephen Root", 
+      "Gary Cole", 
+      "Richard Riehle", 
+      "Alexandra Wentworth", 
+      "Joe Bays", 
+      "John C. McGinley", 
+      "Paul Willson", 
+      "Kinna McInroe", 
+      "Todd Duffey", 
+      "Greg Pitts"
+    ], 
+    "plot_simple": "Comedic tale of company workers who hate their jobs and decide to rebel against their greedy boss.", 
+    "year": 1999, 
+    "runtime": [
+      "89 min"
+    ], 
+    "type": "M", 
+    "release_date": 19990219, 
+    "rating_count": 127601
+  }, 
+  {
+    "rating": 8.5, 
+    "genres": [
+      "Animation", 
+      "Adventure", 
+      "Comedy", 
+      "Family", 
+      "Fantasy"
+    ], 
+    "rated": "G", 
+    "language": [
+      "English", 
+      "Spanish"
+    ], 
+    "title": "Toy Story 3", 
+    "poster": "http://img3.douban.com/lpic/s4207957.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0435761/", 
+    "also_known_as": [
+      "3"
+    ], 
+    "imdb_id": "tt0435761", 
+    "country": [
+      "USA"
+    ], 
+    "directors": [
+      "Lee Unkrich"
+    ], 
+    "writers": [
+      "John Lasseter", 
+      "Andrew Stanton"
+    ], 
+    "actors": [
+      "Tom Hanks", 
+      "Tim Allen", 
+      "Joan Cusack", 
+      "Ned Beatty", 
+      "Don Rickles", 
+      "Michael Keaton", 
+      "Wallace Shawn", 
+      "John Ratzenberger", 
+      "Estelle Harris", 
+      "John Morris", 
+      "Jodi Benson", 
+      "Emily Hahn", 
+      "Laurie Metcalf", 
+      "Blake Clark", 
+      "Teddy Newton"
+    ], 
+    "plot_simple": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.", 
+    "year": 2010, 
+    "runtime": [
+      "103 min"
+    ], 
+    "type": "M", 
+    "release_date": 20100618, 
+    "rating_count": 256488
+  }, 
+  {
+    "rating": 7.3, 
+    "genres": [
+      "Adventure", 
+      "Comedy", 
+      "Sci-Fi", 
+      "Western"
+    ], 
+    "rated": "PG", 
+    "language": [
+      "English"
+    ], 
+    "title": "Back to the Future Part III", 
+    "poster": "http://img3.douban.com/lpic/s1739827.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0099088/", 
+    "directors": [
+      "Robert Zemeckis"
+    ], 
+    "also_known_as": [
+      "Volver al futuro III"
+    ], 
+    "imdb_id": "tt0099088", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "161 N. Magnolia Avenue, Monrovia, California, USA", 
+    "writers": [
+      "Robert Zemeckis", 
+      "Bob Gale"
+    ], 
+    "actors": [
+      "Michael J. Fox", 
+      "Christopher Lloyd", 
+      "Mary Steenburgen", 
+      "Thomas F. Wilson", 
+      "Lea Thompson", 
+      "Elisabeth Shue", 
+      "Matt Clark", 
+      "Richard Dysart", 
+      "Pat Buttram", 
+      "Harry Carey Jr.", 
+      "Dub Taylor", 
+      "James Tolkan", 
+      "Marc McClure", 
+      "Wendie Jo Sperber", 
+      "Jeffrey Weissman"
+    ], 
+    "plot_simple": "Enjoying a peaceable existence in 1885, Doctor Emmet Brown is about to be killed by Buford \"Mad Dog\" Tannen. Marty McFly travels back in time to save his friend.", 
+    "year": 1990, 
+    "runtime": [
+      "118 min"
+    ], 
+    "type": "M", 
+    "release_date": 19900525, 
+    "rating_count": 139572
+  }, 
+  {
+    "rating": 7.7, 
+    "genres": [
+      "Adventure", 
+      "Biography", 
+      "Drama", 
+      "Thriller"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "127 Hours", 
+    "poster": "http://img3.douban.com/lpic/s4499710.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt1542344/", 
+    "directors": [
+      "Danny Boyle"
+    ], 
+    "also_known_as": [
+      "127 horas"
+    ], 
+    "imdb_id": "tt1542344", 
+    "country": [
+      "USA", 
+      "UK"
+    ], 
+    "filming_locations": "Moab, Utah, USA", 
+    "writers": [
+      "Danny Boyle", 
+      "Simon Beaufoy", 
+      "and 1 more credit"
+    ], 
+    "actors": [
+      "James Franco", 
+      "Kate Mara", 
+      "Amber Tamblyn", 
+      "Sean Bott", 
+      "Koleman Stinger", 
+      "Treat Williams", 
+      "John Lawrence", 
+      "Kate Burton", 
+      "Bailee Michelle Johnson", 
+      "Parker Hadley", 
+      "Cl\u00e9mence Po\u00e9sy", 
+      "Fenton Quinn", 
+      "Lizzy Caplan", 
+      "Peter Joshua Hull", 
+      "Pieter Jan Brugge"
+    ], 
+    "plot_simple": "A mountain climber becomes trapped under a boulder while canyoneering alone near Moab, Utah and resorts to desperate measures in order to survive.", 
+    "year": 2010, 
+    "runtime": [
+      "94 min"
+    ], 
+    "type": "M", 
+    "release_date": 20110128, 
+    "rating_count": 153719
+  }, 
+  {
+    "rating": 8.4, 
+    "genres": [
+      "Crime", 
+      "Drama"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English", 
+      "Italian", 
+      "French"
+    ], 
+    "title": "Once Upon a Time in America", 
+    "poster": "http://img3.douban.com/lpic/s2383154.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0087843/", 
+    "directors": [
+      "Sergio Leone"
+    ], 
+    "also_known_as": [
+      "C'era una volta in America"
+    ], 
+    "imdb_id": "tt0087843", 
+    "country": [
+      "Italy", 
+      "USA"
+    ], 
+    "filming_locations": "Brooklyn, New York City, New York, USA", 
+    "writers": [
+      "Harry Grey", 
+      "Leonardo Benvenuti"
+    ], 
+    "actors": [
+      "Robert De Niro", 
+      "James Woods", 
+      "Elizabeth McGovern", 
+      "Joe Pesci", 
+      "Burt Young", 
+      "Tuesday Weld", 
+      "Treat Williams", 
+      "Danny Aiello", 
+      "Richard Bright", 
+      "James Hayden", 
+      "William Forsythe", 
+      "Darlanne Fluegel", 
+      "Larry Rapp", 
+      "Richard Foronjy", 
+      "Robert Harper"
+    ], 
+    "plot_simple": "A former Prohibition-era Jewish gangster returns to Brooklyn over 30 years later, where he once again must confront the ghosts and regrets of his old life.", 
+    "year": 1984, 
+    "runtime": [
+      "229 min", 
+      "USA: 139 min (re-cut)", 
+      "259 min (2012)"
+    ], 
+    "type": "M", 
+    "release_date": 19840523, 
+    "rating_count": 121309
+  }, 
+  {
+    "rating": 8.0, 
+    "genres": [
+      "Comedy", 
+      "Drama", 
+      "Romance"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "Manhattan", 
+    "poster": "http://ia.media-imdb.com/images/M/MV5BMjI4MDIyNjcxMl5BMl5BanBnXkFtZTcwNjA4OTYwNA@@._V1._SY317_.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0079522/", 
+    "directors": [
+      "Woody Allen"
+    ], 
+    "also_known_as": [
+      "\u041c\u0430\u043d\u0445\u0430\u0442\u044a\u043d"
+    ], 
+    "imdb_id": "tt0079522", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "5th Avenue, Manhattan, New York City, New York, USA", 
+    "writers": [
+      "Woody Allen", 
+      "Marshall Brickman"
+    ], 
+    "actors": [
+      "Woody Allen", 
+      "Diane Keaton", 
+      "Michael Murphy", 
+      "Mariel Hemingway", 
+      "Meryl Streep", 
+      "Anne Byrne Hoffman", 
+      "Karen Ludwig", 
+      "Michael O'Donoghue", 
+      "Victor Truro", 
+      "Tisa Farrow", 
+      "Helen Hanft", 
+      "Bella Abzug", 
+      "Gary Weis", 
+      "Kenny Vance", 
+      "Charles Levin"
+    ], 
+    "plot_simple": "A divorced New Yorker currently dating a high-schooler brings himself to look for love in the mistress of his best friend instead.", 
+    "year": 1979, 
+    "runtime": [
+      "96 min"
+    ], 
+    "type": "M", 
+    "release_date": 19790425, 
+    "rating_count": 64223
+  }, 
+  {
+    "rating": 7.1, 
+    "genres": [
+      "Animation", 
+      "Adventure", 
+      "Comedy", 
+      "Family"
+    ], 
+    "rated": "PG", 
+    "language": [
+      "English"
+    ], 
+    "title": "Bolt", 
+    "poster": "http://img3.douban.com/lpic/s3276635.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0397892/", 
+    "also_known_as": [
+      "Bolt - Un perro fuera de serie"
+    ], 
+    "imdb_id": "tt0397892", 
+    "country": [
+      "USA"
+    ], 
+    "directors": [
+      "Byron Howard", 
+      "Chris Williams"
+    ], 
+    "writers": [
+      "Dan Fogelman", 
+      "Chris Williams"
+    ], 
+    "actors": [
+      "John Travolta", 
+      "Miley Cyrus", 
+      "Susie Essman", 
+      "Mark Walton", 
+      "Malcolm McDowell", 
+      "James Lipton", 
+      "Greg Germann", 
+      "Diedrich Bader", 
+      "Nick Swardson", 
+      "J.P. Manoux", 
+      "Dan Fogelman", 
+      "Kari Wahlgren", 
+      "Chlo\u00eb Grace Moretz", 
+      "Randy Savage", 
+      "Ronn Moss"
+    ], 
+    "plot_simple": "The canine star of a fictional sci-fi/action show that believes his powers are real embarks on a cross country trek to save his co-star from a threat he believes is just as real.", 
+    "year": 2008, 
+    "runtime": [
+      "96 min"
+    ], 
+    "type": "M", 
+    "release_date": 20081121, 
+    "rating_count": 77675
+  }, 
+  {
+    "rating": 7.2, 
+    "genres": [
+      "Action", 
+      "Crime", 
+      "Drama", 
+      "Mystery", 
+      "Thriller"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "The Negotiator", 
+    "poster": "http://img3.douban.com/lpic/s4099941.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0120768/", 
+    "directors": [
+      "F. Gary Gray"
+    ], 
+    "also_known_as": [
+      "Verhandlungssache"
+    ], 
+    "imdb_id": "tt0120768", 
+    "country": [
+      "Germany", 
+      "USA"
+    ], 
+    "filming_locations": "77 W. Wacker Drive, Downtown, Chicago, Illinois, USA", 
+    "writers": [
+      "James DeMonaco", 
+      "Kevin Fox"
+    ], 
+    "actors": [
+      "Samuel L. Jackson", 
+      "Kevin Spacey", 
+      "David Morse", 
+      "Ron Rifkin", 
+      "John Spencer", 
+      "J.T. Walsh", 
+      "Siobhan Fallon", 
+      "Paul Giamatti", 
+      "Regina Taylor", 
+      "Bruce Beatty", 
+      "Michael Cudlitz", 
+      "Carlos G\u00f3mez", 
+      "Tim Kelleher", 
+      "Dean Norris", 
+      "Nestor Serrano"
+    ], 
+    "plot_simple": "In a desperate attempt to prove his innocence, a skilled police negotiator accused of corruption and murder takes hostages in a government office to gain the time he needs to find the truth.", 
+    "year": 1998, 
+    "runtime": [
+      "140 min"
+    ], 
+    "type": "M", 
+    "release_date": 19980729, 
+    "rating_count": 72065
+  }, 
+  {
+    "rating": 7.7, 
+    "genres": [
+      "Adventure", 
+      "Drama", 
+      "Family", 
+      "Mystery"
+    ], 
+    "rated": "PG", 
+    "language": [
+      "English"
+    ], 
+    "title": "Hugo", 
+    "poster": "http://ia.media-imdb.com/images/M/MV5BMjAzNzk5MzgyNF5BMl5BanBnXkFtZTcwOTE4NDU5Ng@@._V1._SY317_.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0970179/", 
+    "directors": [
+      "Martin Scorsese"
+    ], 
+    "also_known_as": [
+      "The Invention of Hugo Cabret"
+    ], 
+    "imdb_id": "tt0970179", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "La Sorbonne, Paris 5, Paris, France", 
+    "writers": [
+      "John Logan", 
+      "Brian Selznick"
+    ], 
+    "actors": [
+      "Ben Kingsley", 
+      "Sacha Baron Cohen", 
+      "Asa Butterfield", 
+      "Chlo\u00eb Grace Moretz", 
+      "Ray Winstone", 
+      "Emily Mortimer", 
+      "Christopher Lee", 
+      "Helen McCrory", 
+      "Michael Stuhlbarg", 
+      "Frances de la Tour", 
+      "Richard Griffiths", 
+      "Jude Law", 
+      "Kevin Eldon", 
+      "Gulliver McGrath", 
+      "Shaun Aylward"
+    ], 
+    "plot_simple": "Set in 1930s Paris, an orphan who lives in the walls of a train station is wrapped up in a mystery involving his late father and an automaton.", 
+    "year": 2011, 
+    "runtime": [
+      "USA: 126 min"
+    ], 
+    "type": "M", 
+    "release_date": 20111123, 
+    "rating_count": 131670
+  }, 
+  {
+    "rating": 7.1, 
+    "genres": [
+      "Comedy", 
+      "Music"
+    ], 
+    "rated": "PG_13", 
+    "language": [
+      "English"
+    ], 
+    "title": "The School of Rock", 
+    "poster": "http://img3.douban.com/lpic/s4194554.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0332379/", 
+    "directors": [
+      "Richard Linklater"
+    ], 
+    "also_known_as": [
+      "School of Rock"
+    ], 
+    "imdb_id": "tt0332379", 
+    "country": [
+      "USA", 
+      "Germany"
+    ], 
+    "filming_locations": "Buckley Country Day School - I.U. Willets Road, Herricks, Long Island, New York, USA", 
+    "writers": [
+      "Mike White"
+    ], 
+    "actors": [
+      "Jack Black", 
+      "Adam Pascal", 
+      "Lucas Papaelias", 
+      "Chris Stack", 
+      "Sarah Silverman", 
+      "Mike White", 
+      "Lucas Babin", 
+      "Joan Cusack", 
+      "Jordan-Claire Green", 
+      "Veronica Afflerbach", 
+      "Miranda Cosgrove", 
+      "Joey Gaydos Jr.", 
+      "Robert Tsai", 
+      "Angelo Massagli", 
+      "Kevin Alexander Clark"
+    ], 
+    "plot_simple": "A wannabe rock star in need of cash poses as a substitute teacher at a prep school, and tries to turn his class into a rock band.", 
+    "year": 2003, 
+    "runtime": [
+      "108 min"
+    ], 
+    "type": "M", 
+    "release_date": 20031003, 
+    "rating_count": 115136
+  }, 
+  {
+    "rating": 8.1, 
+    "genres": [
+      "Drama"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English", 
+      "American Sign Language"
+    ], 
+    "title": "There Will Be Blood", 
+    "poster": "http://img3.douban.com/lpic/s2814424.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0469494/", 
+    "directors": [
+      "Paul Thomas Anderson"
+    ], 
+    "also_known_as": [
+      "Petr\u00f3leo sangriento"
+    ], 
+    "imdb_id": "tt0469494", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Shafter, Texas, USA", 
+    "writers": [
+      "Paul Thomas Anderson", 
+      "Upton Sinclair"
+    ], 
+    "actors": [
+      "Daniel Day-Lewis", 
+      "Martin Stringer", 
+      "Matthew Braden Stringer", 
+      "Jacob Stringer", 
+      "Joseph Mussey", 
+      "Barry Del Sherman", 
+      "Harrison Taylor", 
+      "Stockton Taylor", 
+      "Paul F. Tompkins", 
+      "Dillon Freasier", 
+      "Kevin Breznahan", 
+      "Jim Meskimen", 
+      "Erica Sullivan", 
+      "Randall Carver", 
+      "Coco Leigh"
+    ], 
+    "plot_simple": "A story about family, greed, religion, and oil, centered around a turn-of-the-century prospector in the early days of the business.", 
+    "year": 2007, 
+    "runtime": [
+      "158 min"
+    ], 
+    "type": "M", 
+    "release_date": 20080125, 
+    "rating_count": 210312
+  }, 
+  {
+    "rating": 8.4, 
+    "genres": [
+      "Drama", 
+      "Sci-Fi"
+    ], 
+    "rated": "NOT_RATED", 
+    "language": [
+      "German"
+    ], 
+    "title": "Metropolis", 
+    "poster": "http://img3.douban.com/lpic/s2237843.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0017136/", 
+    "directors": [
+      "Fritz Lang"
+    ], 
+    "also_known_as": [
+      "The Complete Metropolis"
+    ], 
+    "imdb_id": "tt0017136", 
+    "country": [
+      "Germany"
+    ], 
+    "filming_locations": "Berlin, Germany", 
+    "writers": [
+      "Thea von Harbou", 
+      "Thea von Harbou", 
+      "and 1 more credit"
+    ], 
+    "actors": [
+      "Alfred Abel", 
+      "Gustav Fr\u00f6hlich", 
+      "Rudolf Klein-Rogge", 
+      "Fritz Rasp", 
+      "Theodor Loos", 
+      "Erwin Biswanger", 
+      "Heinrich George", 
+      "Brigitte Helm"
+    ], 
+    "plot_simple": "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working class prophet who predicts the coming of a savior to mediate their differences.", 
+    "year": 1927, 
+    "runtime": [
+      "153 min", 
+      "Germany: 210 min (premiere cut)", 
+      "Germany: 93 min (re-release version)", 
+      "USA: 114 min (25 fps) (1927 cut version)", 
+      "USA: 123 min (2002 Murnau Foundation 75th aniversary restored version)", 
+      "119 min (DVD edition) (2002 Murnau Foundation 75th aniversary restored version)", 
+      "80 min (Giorgio Moroder version)", 
+      "145 min (2010 restored version)"
+    ], 
+    "type": "M", 
+    "release_date": 19270313, 
+    "rating_count": 63437
+  }, 
+  {
+    "rating": 7.3, 
+    "genres": [
+      "Adventure", 
+      "Horror"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "The Descent", 
+    "poster": "http://img3.douban.com/lpic/s6894792.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0435625/", 
+    "directors": [
+      "Neil Marshall"
+    ], 
+    "also_known_as": [
+      "El descenso"
+    ], 
+    "imdb_id": "tt0435625", 
+    "country": [
+      "UK"
+    ], 
+    "filming_locations": "Berkhamsted, Hertfordshire, England, UK", 
+    "writers": [
+      "Neil Marshall"
+    ], 
+    "actors": [
+      "Shauna Macdonald", 
+      "Natalie Mendoza", 
+      "Alex Reid", 
+      "Saskia Mulder", 
+      "MyAnna Buring", 
+      "Nora-Jane Noone", 
+      "Oliver Milburn", 
+      "Molly Kayll", 
+      "Craig Conway", 
+      "Leslie Simpson", 
+      "Mark Cronfield", 
+      "Stephen Lamb", 
+      "Catherine Dyson", 
+      "Julie Ellis", 
+      "Sophie Trott"
+    ], 
+    "plot_simple": "A caving expedition goes horribly wrong, as the explorers become trapped and ultimately pursued by a strange breed of predators.", 
+    "year": 2005, 
+    "runtime": [
+      "99 min", 
+      "100 min (original unrated cut)"
+    ], 
+    "type": "M", 
+    "release_date": 20060804, 
+    "rating_count": 94133
+  }, 
+  {
+    "rating": 7.5, 
+    "genres": [
+      "Comedy", 
+      "Drama"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "Ghost World", 
+    "poster": "http://img3.douban.com/lpic/s1679304.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0162346/", 
+    "directors": [
+      "Terry Zwigoff"
+    ], 
+    "also_known_as": [
+      "\u041f\u0440\u0438\u0437\u0440\u0430\u0447\u043d\u044b\u0439 \u043c\u0438\u0440"
+    ], 
+    "imdb_id": "tt0162346", 
+    "country": [
+      "USA", 
+      "UK", 
+      "Germany"
+    ], 
+    "filming_locations": "Santa Clarita, California, USA", 
+    "writers": [
+      "Daniel Clowes", 
+      "Daniel Clowes", 
+      "and 1 more credit"
+    ], 
+    "actors": [
+      "Thora Birch", 
+      "Scarlett Johansson", 
+      "Steve Buscemi", 
+      "Brad Renfro", 
+      "Illeana Douglas", 
+      "Bob Balaban", 
+      "Stacey Travis", 
+      "Charles C. Stevenson Jr.", 
+      "Dave Sheridan", 
+      "Tom McGowan", 
+      "Debra Azar", 
+      "Brian George", 
+      "Pat Healy", 
+      "Honorine Bell", 
+      "T.J. Thyne"
+    ], 
+    "plot_simple": "Enid and Rebecca are social outsiders who, after graduating from high school, play a mean prank on a middle-aged geek.", 
+    "year": 2001, 
+    "runtime": [
+      "111 min"
+    ], 
+    "type": "M", 
+    "release_date": 20011018, 
+    "rating_count": 64974
+  }, 
+  {
+    "rating": 7.6, 
+    "genres": [
+      "Action", 
+      "Adventure", 
+      "Thriller"
+    ], 
+    "rated": "PG", 
+    "language": [
+      "English", 
+      "Russian"
+    ], 
+    "title": "The Hunt for Red October", 
+    "poster": "http://img3.douban.com/lpic/s4360423.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0099810/", 
+    "directors": [
+      "John McTiernan"
+    ], 
+    "also_known_as": [
+      "\u00c0 la poursuite d'Octobre Rouge"
+    ], 
+    "imdb_id": "tt0099810", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "California, USA", 
+    "writers": [
+      "Tom Clancy", 
+      "Larry Ferguson", 
+      "and 1 more credit"
+    ], 
+    "actors": [
+      "Sean Connery", 
+      "Alec Baldwin", 
+      "Scott Glenn", 
+      "Sam Neill", 
+      "James Earl Jones", 
+      "Joss Ackland", 
+      "Richard Jordan", 
+      "Peter Firth", 
+      "Tim Curry", 
+      "Courtney B. Vance", 
+      "Stellan Skarsg\u00e5rd", 
+      "Jeffrey Jones", 
+      "Timothy Carhart", 
+      "Larry Ferguson", 
+      "Fred Dalton Thompson"
+    ], 
+    "plot_simple": "In 1984, the USSR's best submarine captain in their newest sub violates orders and heads for the USA. Is he trying to defect, or to start a war?", 
+    "year": 1990, 
+    "runtime": [
+      "134 min"
+    ], 
+    "type": "M", 
+    "release_date": 19900302, 
+    "rating_count": 89827
+  }, 
+  {
+    "rating": 7.9, 
+    "genres": [
+      "Action", 
+      "Adventure", 
+      "Sci-Fi", 
+      "Thriller"
+    ], 
+    "rated": "PG_13", 
+    "language": [
+      "English", 
+      "Mandarin"
+    ], 
+    "title": "Serenity", 
+    "poster": "http://img3.douban.com/lpic/s1456595.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0379786/", 
+    "directors": [
+      "Joss Whedon"
+    ], 
+    "also_known_as": [
+      "Serenity - A Luta Pelo Amanh\u00e3"
+    ], 
+    "imdb_id": "tt0379786", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "Anza-Borrego Desert State Park - 200 Palm Canyon Drive, Borrego Springs, California, USA", 
+    "writers": [
+      "Joss Whedon"
+    ], 
+    "actors": [
+      "Nathan Fillion", 
+      "Gina Torres", 
+      "Alan Tudyk", 
+      "Morena Baccarin", 
+      "Adam Baldwin", 
+      "Jewel Staite", 
+      "Sean Maher", 
+      "Summer Glau", 
+      "Ron Glass", 
+      "Chiwetel Ejiofor", 
+      "David Krumholtz", 
+      "Michael Hitchcock", 
+      "Sarah Paulson", 
+      "Yan Feldman", 
+      "Rafael Feldman"
+    ], 
+    "plot_simple": "The crew of the ship Serenity tries to evade an assassin sent to recapture one of their number who is telepathic.", 
+    "year": 2005, 
+    "runtime": [
+      "119 min"
+    ], 
+    "type": "M", 
+    "release_date": 20050930, 
+    "rating_count": 160061
+  }, 
+  {
+    "rating": 7.2, 
+    "genres": [
+      "Action", 
+      "Comedy", 
+      "Crime"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "21 Jump Street", 
+    "poster": "http://img3.douban.com/lpic/s7024620.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt1232829/", 
+    "directors": [
+      "Phil Lord", 
+      "Chris Miller"
+    ], 
+    "also_known_as": [
+      "Comando especial"
+    ], 
+    "imdb_id": "tt1232829", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "New Orleans, Louisiana, USA", 
+    "writers": [
+      "Michael Bacall", 
+      "Michael Bacall"
+    ], 
+    "actors": [
+      "Jonah Hill", 
+      "Channing Tatum", 
+      "Brie Larson", 
+      "Dave Franco", 
+      "Rob Riggle", 
+      "DeRay Davis", 
+      "Ice Cube", 
+      "Dax Flame", 
+      "Chris Parnell", 
+      "Ellie Kemper", 
+      "Jake Johnson", 
+      "Nick Offerman", 
+      "Holly Robinson Peete", 
+      "Johnny Pemberton", 
+      "Stanley Wong"
+    ], 
+    "plot_simple": "A pair of underachieving cops are sent back to a local high school to blend in and bring down a synthetic drug ring.", 
+    "year": 2012, 
+    "runtime": [
+      "109 min"
+    ], 
+    "type": "M", 
+    "release_date": 20120316, 
+    "rating_count": 141603
+  }, 
+  {
+    "rating": 7.0, 
+    "genres": [
+      "Drama", 
+      "Mystery", 
+      "Thriller"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English"
+    ], 
+    "title": "Buried", 
+    "poster": "http://img3.douban.com/lpic/s4452423.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt1462758/", 
+    "directors": [
+      "Rodrigo Cort\u00e9s"
+    ], 
+    "also_known_as": [
+      "Enterrado"
+    ], 
+    "imdb_id": "tt1462758", 
+    "country": [
+      "Spain", 
+      "USA", 
+      "France"
+    ], 
+    "filming_locations": "Barcelona, Catalu\u00f1a, Spain", 
+    "writers": [
+      "Chris Sparling"
+    ], 
+    "actors": [
+      "Ryan Reynolds", 
+      "Jos\u00e9 Luis Garc\u00eda P\u00e9rez", 
+      "Robert Paterson", 
+      "Stephen Tobolowsky", 
+      "Samantha Mathis", 
+      "Ivana Mi\u00f1o", 
+      "Warner Loughlin", 
+      "Erik Palladino", 
+      "Kali Rocha", 
+      "Chris William Martin", 
+      "Cade Dundish", 
+      "Mary Birdsong", 
+      "Kirk Baily", 
+      "Anne Lockhart", 
+      "Robert Clotworthy"
+    ], 
+    "plot_simple": "Paul is a U.S. truck driver working in Iraq. After an attack by a group of Iraqis he wakes to find he is buried alive inside a coffin. With only a lighter and a cell phone it's a race against time to escape this claustrophobic death trap.", 
+    "year": 2010, 
+    "runtime": [
+      "95 min"
+    ], 
+    "type": "M", 
+    "release_date": 20100929, 
+    "rating_count": 74061
+  }, 
+  {
+    "rating": 8.5, 
+    "genres": [
+      "Drama", 
+      "Mystery", 
+      "Thriller"
+    ], 
+    "rated": "PG_13", 
+    "language": [
+      "English"
+    ], 
+    "title": "The Prestige", 
+    "poster": "http://img3.douban.com/lpic/s1872245.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0482571/", 
+    "directors": [
+      "Christopher Nolan"
+    ], 
+    "also_known_as": [
+      "El gran truco"
+    ], 
+    "imdb_id": "tt0482571", 
+    "country": [
+      "USA", 
+      "UK"
+    ], 
+    "filming_locations": "Spring Street Towers - 650 S. Spring Street, Downtown, Los Angeles, California, USA", 
+    "writers": [
+      "Jonathan Nolan", 
+      "Christopher Nolan", 
+      "and 1 more credit"
+    ], 
+    "actors": [
+      "Hugh Jackman", 
+      "Christian Bale", 
+      "Michael Caine", 
+      "Piper Perabo", 
+      "Rebecca Hall", 
+      "Scarlett Johansson", 
+      "Samantha Mahurin", 
+      "David Bowie", 
+      "Andy Serkis", 
+      "Daniel Davis", 
+      "Jim Piddock", 
+      "Christopher Neame", 
+      "Mark Ryan", 
+      "Roger Rees", 
+      "Jamie Harris"
+    ], 
+    "plot_simple": "The rivalry between two magicians is exacerbated when one of them performs the ultimate illusion.", 
+    "year": 2006, 
+    "runtime": [
+      "130 min"
+    ], 
+    "type": "M", 
+    "release_date": 20061020, 
+    "rating_count": 400664
+  }, 
+  {
+    "rating": 8.6, 
+    "genres": [
+      "Animation", 
+      "Adventure", 
+      "Family", 
+      "Fantasy"
+    ], 
+    "rated": "PG", 
+    "language": [
+      "Japanese"
+    ], 
+    "title": "Sen to Chihiro no kamikakushi", 
+    "poster": "http://img3.douban.com/lpic/s1309372.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0245429/", 
+    "also_known_as": [
+      "Spirited Away"
+    ], 
+    "imdb_id": "tt0245429", 
+    "country": [
+      "Japan"
+    ], 
+    "directors": [
+      "Hayao Miyazaki"
+    ], 
+    "writers": [
+      "Hayao Miyazaki"
+    ], 
+    "actors": [
+      "Daveigh Chase", 
+      "Suzanne Pleshette", 
+      "Susan Egan", 
+      "David Ogden Stiers", 
+      "Lauren Holly", 
+      "Michael Chiklis", 
+      "John Ratzenberger", 
+      "Jack Angel", 
+      "Bob Bergen", 
+      "Rodger Bumpass", 
+      "Jennifer Darling", 
+      "Paul Eiding", 
+      "Tatsuya Gash\u00fbin", 
+      "Koba Hayashi", 
+      "Rumi Hiiragi"
+    ], 
+    "plot_simple": "In the middle of her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and monsters; where humans are changed into animals; and a bathhouse for these creatures.", 
+    "year": 2001, 
+    "runtime": [
+      "125 min"
+    ], 
+    "type": "M", 
+    "release_date": 20010720, 
+    "rating_count": 195581
+  }, 
+  {
+    "rating": 8.0, 
+    "genres": [
+      "Action", 
+      "Sci-Fi", 
+      "Thriller"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English", 
+      "Nyanja", 
+      "Afrikaans", 
+      "Zulu", 
+      "Xhosa", 
+      "Sotho"
+    ], 
+    "title": "District 9", 
+    "poster": "http://img3.douban.com/lpic/s3866706.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt1136608/", 
+    "directors": [
+      "Neill Blomkamp"
+    ], 
+    "also_known_as": [
+      "Sector 9"
+    ], 
+    "imdb_id": "tt1136608", 
+    "country": [
+      "USA", 
+      "New Zealand", 
+      "Canada", 
+      "South Africa"
+    ], 
+    "filming_locations": "Johannesburg, Gauteng, South Africa", 
+    "writers": [
+      "Neill Blomkamp", 
+      "Terri Tatchell"
+    ], 
+    "actors": [
+      "Sharlto Copley", 
+      "Jason Cope", 
+      "Nathalie Boltt", 
+      "Sylvaine Strike", 
+      "Elizabeth Mkandawie", 
+      "John Sumner", 
+      "William Allen Young", 
+      "Greg Melvill-Smith", 
+      "Nick Blake", 
+      "Morena Busa Sesatsa", 
+      "Themba Nkosi", 
+      "Mzwandile Nqoba", 
+      "Barry Strydom", 
+      "Jed Brophy", 
+      "Louis Minnaar"
+    ], 
+    "plot_simple": "An extraterrestrial race forced to live in slum-like conditions on Earth suddenly finds a kindred spirit in a government agent who is exposed to their biotechnology.", 
+    "year": 2009, 
+    "runtime": [
+      "112 min"
+    ], 
+    "type": "M", 
+    "release_date": 20090814, 
+    "rating_count": 311066
+  }, 
+  {
+    "rating": 8.3, 
+    "genres": [
+      "Adventure", 
+      "Drama", 
+      "War"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English", 
+      "German", 
+      "French", 
+      "Italian"
+    ], 
+    "title": "Inglourious Basterds", 
+    "poster": "http://ia.media-imdb.com/images/M/MV5BMjIzMDI4MTUzOV5BMl5BanBnXkFtZTcwNDY3NjA3Mg@@._V1._SY317_CR0,0,214,317_.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0361748/", 
+    "directors": [
+      "Quentin Tarantino", 
+      "and 1 more credit"
+    ], 
+    "also_known_as": [
+      "Bastardos sin gloria"
+    ], 
+    "imdb_id": "tt0361748", 
+    "country": [
+      "USA", 
+      "Germany"
+    ], 
+    "filming_locations": "Babelsberg, Potsdam, Brandenburg, Germany", 
+    "writers": [
+      "Quentin Tarantino"
+    ], 
+    "actors": [
+      "Brad Pitt", 
+      "M\u00e9lanie Laurent", 
+      "Christoph Waltz", 
+      "Eli Roth", 
+      "Michael Fassbender", 
+      "Diane Kruger", 
+      "Daniel Br\u00fchl", 
+      "Til Schweiger", 
+      "Gedeon Burkhard", 
+      "Jacky Ido", 
+      "B.J. Novak", 
+      "Omar Doom", 
+      "August Diehl", 
+      "Denis M\u00e9nochet", 
+      "Sylvester Groth"
+    ], 
+    "plot_simple": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.", 
+    "year": 2009, 
+    "runtime": [
+      "153 min"
+    ], 
+    "type": "M", 
+    "release_date": 20090821, 
+    "rating_count": 390203
+  }, 
+  {
+    "rating": 7.0, 
+    "genres": [
+      "Action", 
+      "Drama", 
+      "History", 
+      "War"
+    ], 
+    "rated": "R", 
+    "language": [
+      "English", 
+      "Vietnamese", 
+      "French"
+    ], 
+    "title": "We Were Soldiers", 
+    "poster": "http://img3.douban.com/lpic/s1490533.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0277434/", 
+    "directors": [
+      "Randall Wallace"
+    ], 
+    "also_known_as": [
+      "Wir waren Helden"
+    ], 
+    "imdb_id": "tt0277434", 
+    "country": [
+      "USA", 
+      "Germany"
+    ], 
+    "filming_locations": "Castle Green Apartments - 99 S. Raymond, Pasadena, California, USA", 
+    "writers": [
+      "Harold G. Moore", 
+      "Joseph L. Galloway", 
+      "and 1 more credit"
+    ], 
+    "actors": [
+      "Mel Gibson", 
+      "Madeleine Stowe", 
+      "Greg Kinnear", 
+      "Sam Elliott", 
+      "Chris Klein", 
+      "Keri Russell", 
+      "Barry Pepper", 
+      "Duong Don", 
+      "Ryan Hurst", 
+      "Robert Bagnell", 
+      "Marc Blucas", 
+      "Josh Daugherty", 
+      "Jsu Garcia", 
+      "Jon Hamm", 
+      "Clark Gregg"
+    ], 
+    "plot_simple": "The story of the first major battle of the American phase of the Vietnam War and the soldiers on both sides that fought it.", 
+    "year": 2002, 
+    "runtime": [
+      "138 min", 
+      "Argentina: 140 min", 
+      "Germany: 126 min (cut)", 
+      "Spain: 143 min", 
+      "Turkey: 124 min (TV version)"
+    ], 
+    "type": "M", 
+    "release_date": 20020301, 
+    "rating_count": 63822
+  }, 
+  {
+    "rating": 7.3, 
+    "genres": [
+      "Adventure", 
+      "Comedy", 
+      "Family"
+    ], 
+    "rated": "PG", 
+    "language": [
+      "English"
+    ], 
+    "title": "Home Alone", 
+    "poster": "http://ia.media-imdb.com/images/M/MV5BMTUzMzg4MTg2M15BMl5BanBnXkFtZTYwNDM4OTk4._V1._SY317_CR6,0,214,317_.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt0099785/", 
+    "directors": [
+      "Chris Columbus"
+    ], 
+    "also_known_as": [
+      "Mi pobre angelito"
+    ], 
+    "imdb_id": "tt0099785", 
+    "country": [
+      "USA"
+    ], 
+    "filming_locations": "656 Lincoln Avenue, Winnetka, Illinois, USA", 
+    "writers": [
+      "John Hughes"
+    ], 
+    "actors": [
+      "Macaulay Culkin", 
+      "Joe Pesci", 
+      "Daniel Stern", 
+      "John Heard", 
+      "Roberts Blossom", 
+      "Catherine O'Hara", 
+      "Angela Goethals", 
+      "Devin Ratray", 
+      "Gerry Bamman", 
+      "Hillary Wolf", 
+      "John Candy", 
+      "Larry Hankin", 
+      "Michael C. Maronna", 
+      "Kristin Minter", 
+      "Diana Rein"
+    ], 
+    "plot_simple": "An 8-year-old boy, who is accidentally left behind while his family flies to France for Christmas, has to defend his home against idiotic burglars.", 
+    "year": 1990, 
+    "runtime": [
+      "103 min"
+    ], 
+    "type": "M", 
+    "release_date": 19901116, 
+    "rating_count": 153664
+  }, 
+  {
+    "rating": 8.8, 
+    "genres": [
+      "Action", 
+      "Adventure", 
+      "Mystery", 
+      "Sci-Fi", 
+      "Thriller"
+    ], 
+    "rated": "PG_13", 
+    "language": [
+      "English", 
+      "Japanese", 
+      "French"
+    ], 
+    "title": "Inception", 
+    "poster": "http://ia.media-imdb.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1._SY317_.jpg", 
+    "imdb_url": "http://www.imdb.com/title/tt1375666/", 
+    "directors": [
+      "Christopher Nolan"
+    ], 
+    "also_known_as": [
+      "Inception: The IMAX Experience"
+    ], 
+    "imdb_id": "tt1375666", 
+    "country": [
+      "USA", 
+      "UK"
+    ], 
+    "filming_locations": "1240 S Hope St, Los Angeles, California, USA", 
+    "writers": [
+      "Christopher Nolan"
+    ], 
+    "actors": [
+      "Leonardo DiCaprio", 
+      "Joseph Gordon-Levitt", 
+      "Ellen Page", 
+      "Tom Hardy", 
+      "Ken Watanabe", 
+      "Dileep Rao", 
+      "Cillian Murphy", 
+      "Tom Berenger", 
+      "Marion Cotillard", 
+      "Pete Postlethwaite", 
+      "Michael Caine", 
+      "Lukas Haas", 
+      "Tai-Li Lee", 
+      "Claire Geare", 
+      "Magnus Nolan"
+    ], 
+    "plot_simple": "In a world where technology exists to enter the human mind through dream invasion, a highly skilled thief is given a final chance at redemption which involves executing his toughest job to date: Inception.", 
+    "year": 2010, 
+    "runtime": [
+      "148 min"
+    ], 
+    "type": "M", 
+    "release_date": 20100716, 
+    "rating_count": 672469
+  }
+]

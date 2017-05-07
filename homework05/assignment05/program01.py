@@ -1,0 +1,90 @@
+''''
+Definire una classe Color e una classe Image secondo lo schema qui sotto.
+Le definizioni devono essere tali da soddisfare i seguenti esempi.
+
+Questo programma deve produrre l'immagine nel file file01_01_check.png
+img = Image(200, 100, Color(0, 0, 255))
+h_line(img, 20, Color(255, 0, 0))
+c = img.get_pixel(20, 20)
+c.b = 200
+img2 = img.copy()
+h_line(img, 40, Color(255, 0, 0))
+save('file01_01_out.png', img)
+
+Quest'altro programma deve produrre l'immagine nel file file01_02_check.png
+img = Image(100, 80, Color(128, 128, 255))
+img2 = img.copy()
+h_line(img2, 50, Color(100, 20, 20))
+h_line(img, 70, Color(20, 128, 0))
+save('file01_02_out.png', img2)
+
+Le funzioni h_line() e save() sono definite sotto.
+'''
+
+import png
+ 
+class Color(object):
+    '''La classe deve avere attributi r, g e b che contengono
+       i valori dei canali colore corrispondenti.'''
+    def __init__(self, r, g, b): 					       #costruttore colori
+        '''Inizializza il colore con i valori r, g e b.'''
+        self.r = r 			          #associa il canale del rosso oggetto costruzione
+        self.g = g 				  #associa il canale del verde oggetto costruzione
+        self.b = b 		 		    #associa il canale del blu oggetto costruzione
+ 
+    def copy(self):
+        '''Ritorna una copia dell'oggetto.'''
+        return Color(self.r,self.g,self.b) 			      #ritorna la copia dei canali
+       
+       
+class Image(object):
+    '''La classe deve avere attributi width e height.'''
+    def __init__(self, width, height, c):  			     #costruttore griglia immagine
+        '''Inizializza l'immagine di larghezza width, altezza
+           height e tutti i pixel con copie di c, dove c e' un
+           oggetto di tipo Color.'''
+        self.width = width 	 		       #associa la larghezza alla griglia immagine
+        self.height = height 	  			    #associa altezza alla griglia immagine
+        self.c = c 	  			#associa la copia del colore alla griglia immagine
+        self.matrx = [] 				  #inizializza la matrice griglia immagine 
+        for i in range(width): 				   	      #scansiona larghezza griglia
+            matrxrow = [] 	 		       #aggiunge una riga di larghezza width vuota
+            for j in range(height): 			   		       #scansiona le righe
+                matrxrow.append(c) 		  		    #aggiunge pixel colore c righe
+            self.matrx.append(matrxrow) 			  #aggiunge effetivamente le righe
+ 
+    def set_pixel(self, x, y, c):
+        '''Imposta il colore in posizione (x, y) con una copia
+           dell'oggetto c di tipo Color. Se la posizione (x, y)
+           e' fuori dall'immagine, non fa nulla.'''
+        if x < self.width and x >= 0 and y < self.height and y >= 0: #se i parametri x,y rientrano 
+            self.matrx[x][y] = c.copy()			       #nell'immagine imposta il pixel a c
+                 
+    def get_pixel(self, x, y):
+        '''Ritorna una copia del colore (di tipo Color) in
+           posizione (x, y). Se (x, y) e' fuori dall'immagine,
+           ritorna None'''
+        if x < self.width and x >= 0 and y < self.height and y >= 0: #se i parametri x,y rientrano
+            return self.matrx[x][y].copy() 			#nell'immagine copia valore in x,y
+        else:							    #altrimenti non assegni niente
+            return None
+ 
+    def copy(self):
+        '''Ritorna una copia dell'immagine (sempre di tipo Image).'''
+        return Image(self.width,self.height,self.c)     #copia l'immagine passando i parametri nel 
+									     #costruttore immagine
+ 
+def h_line(img, y, c): 		 		         #già definita imposta i pixel delle righe
+    for x in range(img.width):
+        img.set_pixel(x, y, c)
+   
+def save(filename, img): 					      #già definita salva immagine
+    png_img = [] 								 #griglia immagine
+    for i in range(img.height):
+        png_row = []  			        #inizializza le righe arrivando a ncolonne==height
+        for j in range(img.width): 				   	     #scansiona le colonne
+            c = img.get_pixel(j, i) 				  		#cattura il colore
+            png_row.extend([c.r, c.g, c.b]) 			      #estende la riga con pixel c
+        png_img.append(png_row) 			 	       #aggiunge a png_img la riga
+    with open(filename, 'wb') as f:  				#apre il file in scrittura binaria
+        png.Writer(img.width, img.height).write(f, png_img)      			   #scrive
