@@ -1,0 +1,6 @@
+pasta,98,1,2,3,4
+pomodori,2
+patate,13,2,56
+pomodori,67,8
+pomodori,12
+cicoria,2,3,4,1,6,8,45

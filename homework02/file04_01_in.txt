@@ -1,0 +1,5 @@
+martello,12,1
+bullone,13
+vite,1,2
+martello,1,23
+vite,28

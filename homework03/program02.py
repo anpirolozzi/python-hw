@@ -1,0 +1,45 @@
+'''
+Il cifrario di Cesare.
+http://en.wikipedia.org/wiki/Caesar_cipher
+http://it.wikipedia.org/wiki/Cifrario_di_Cesare
+
+L'idea di base di questo esercizio e' di replicare il cifrario di Cesare,
+che e' un modo per offuscare messaggi in testo in modo che altri non possano
+leggerli, ma solo chi ne conosce il codice puo'. Nel cifraio di Cesare,
+l'idea di base e' di prendere un messaggio e riscriverlo sostituendo 
+per ogni lettera dell'alfabeto la lettera che e' traslata di n posti. 
+As esempio, per n == 3, a -> d, b -> e eccetera. Per de-cifrare, possiamo
+fare le sostituzioni opposte.
+
+Nel nostro esempio implementeremo una cosa molto simile, ma semplificata.
+Data il testo text, creare un nuovo testo dove ogni lettera alfabetica minuscola 
+e' sostituita dalla lettera minuscola spostata di una posizione ((n + 26) modulo 26). 
+Per posizione di intende che 'a' -> 0, 'b' -> 1, eccetera
+Potete assumere che tutti i caratteri alfabetici usati sono minuscoli.
+
+Suggerimento: in Python, potete calcolare la posizione nell'alfabeto ASCII di un carattere 
+ASCII con ord() e calcolare il carattere per una posizione con chr(). 
+Notate che ord e chr non iniziano da zero.
+Per formrvi una intuizione potete stampare un po' di valori di ord e chr.
+
+Con questo formuletta potete codificare i messaggi usando un valore di n < 26 e 
+decodificarli con un valore negativo -n. Ad esempio:
+caesar_cypher('ciao, ma che bello',3) -> 'fldr, pd fkh ehoor'
+caesar_cypher('fldr, pd fkh ehoor',-3) -> 'ciao, ma che bello'
+caesar_cypher('pippo e pluto --- kdkkj y kgpoj',5) -> 'unuut j uqzyt --- pippo d pluto'
+'''
+
+import string
+
+def caesar_cypher(text,n):
+    output=' '
+    for i in range(len(text)):
+        pos=ord(text[i])
+        if pos>=97 and pos<=122:
+            cpos=pos+n
+            if cpos>122:
+                cpos=cpos-26
+            output+=chr(cpos)
+        else:
+            output+=chr(pos)
+    return output.strip()

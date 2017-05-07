@@ -1,0 +1,88 @@
+'''
+f_phone_addr(phonefile, addrfile) prende in input il nome phonefile di
+un file che contiene in ogni linea un nome e un numero di telefono separati
+da ':', il nome di un file addrfile che contiene in ogni linea un nome e
+un indirizzo separati da ':', la funzione un dizionario le cui chiavi sono
+i nomi presenti nei due file e ad ogni nome e' associato un dizionario
+che se per quel nome c'e' un numero di telefono nel file phonefile, ha la chiave
+'phone' con valore il numero di telefono e se c'e' un indirizzo nel file
+addrfile, ha una chiave 'address' con valore l'indirizzo. Gli eventuali spazi
+a sinistra della prima lettera o a destra dell'ultima lettera nei campi nome,
+telefono e indirizzo non devono essere presenti nel dizionario di output.
+Esempi
+
+FILE phonefile
+Marco: 347 8987989
+  giorgio  : 06 89786765
+ Mauro B.: 3489878675
+Ciro : 07897878
+L. De La: 09877887
+
+FILE addrfile
+Giorgio : via Verdi, 23
+ M. Bianchi:Piazza Milano, 1
+   L. De La : via A. Einstein, 12
+ Ciro: via Pio
+
+f_phone_addr(phonefile, addrfile)  -->
+    {'Giorgio': {'address': 'via Verdi, 23'},
+    'Marco': {'phone': '347 8987989'},
+    'giorgio': {'phone': '06 89786765'},
+    'L. De La': {'phone': '09877887', 'address': 'via A. Einstein, 12'},
+    'Ciro': {'phone': '07897878', 'address': 'via Pio'},
+    'Mauro B.': {'phone': '3489878675'},
+    'M. Bianchi': {'address': 'Piazza Milano, 1'}}
+
+FILE phonefile
+Marco: 347 8987989
+GG  : 06 89786765
+ De Simoz    : 34898777777888888885
+trani : 07897878
+Rosso G.: 0988 97987 08098
+
+FILE addrfile
+Rosso G.  :  via Verdi, 23  
+Bianconi:Viale Milano, 10  
+  De Simoz : via B. Bolla
+Ugo   : via Po, 346  
+Trani: Gioia Tauro
+
+f_phone_addr(phonefile, addrfile)  -->
+    {'Trani': {'address': 'Gioia Tauro'}, 'Marco': {'phone': '347 8987989'},
+    'Ugo': {'address': 'via Po, 346'}, 'trani': {'phone': '07897878'},
+    'GG': {'phone': '06 89786765'}, 'Bianconi': {'address': 'Viale Milano, 10'},
+    'Rosso G.': {'phone': '0988 97987 08098', 'address': 'via Verdi, 23'},
+    'De Simoz': {'phone': '34898777777888888885', 'address': 'via B. Bolla'}}
+
+Suggerimento: usare la funzione dell'esercizio 2.
+'''
+
+def f_phone_addr(phonefile, addrfile):
+        f_phone_addr = {}
+        f_phone = {}
+        f_addr = {}
+
+        with open(phonefile) as phones:
+                contatti = phones.readlines()
+                for i in range(len(contatti)):
+                        persona = contatti[i].split(':')
+                        nome = persona[0].strip()
+                        numero = persona[1].strip()
+                        f_phone[nome] = numero
+
+        with open(addrfile) as addrs:
+                contatti = addrs.readlines()
+                for i in range(len(contatti)):
+                        persona = contatti[i].split(':')
+                        nome = persona[0].strip()
+                        indirizzo = persona[1].strip()
+                        f_addr[nome] = indirizzo
+
+        for key in f_phone:
+                f_phone_addr[key] = {'phone':f_phone[key]}
+        for key in f_addr:
+                if key in f_phone_addr:
+                        f_phone_addr[key] = {'phone':f_phone[key],'address':f_addr[key]}
+                else:
+                        f_phone_addr[key] = {'address':f_addr[key]}
+        return f_phone_addr
